@@ -48,3 +48,16 @@ Tomorrow morning:
 Have index.js created  
 Have seedfile working  
 
+Tomorrow Afternoon: 
+Create Routes & Controllers for - Jobs & SOC 
+Create Routes & Controllers for Skills 
+Crud for jobs & SOC 
+
+Friday Morning: 
+CRUD for Skills 
+Create a draft script for video 
+
+Weekend: 
+Squash Bugs 
+Film Video 
+Go for Silver 
