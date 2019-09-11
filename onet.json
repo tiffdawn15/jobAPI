@@ -1,0 +1,319 @@
+[
+    {
+    "uuid": "35599e2bf5c81b98e0d2a7bc55afa32c",
+    "onet_soc_code": "17-2051.01",
+    "title": "Transportation Engineers",
+    "description": "Develop plans for surface transportation projects, according to established engineering standards and state or federal construction policy. Prepare designs, specifications, or estimates for transportation facilities. Plan modifications of existing streets, highways, or freeways to improve traffic flow.",
+    "related_job_titles": [
+        {
+            "uuid": "e13b0c5ac5966dc5bc508acdd7a5972f",
+            "title": "Civil Transportation Engineer"
+        },
+        {
+            "uuid": "cd7d3d787aadcfb3daff4ccd13aacc57",
+            "title": "Roadway Engineer"
+        },
+        {
+            "uuid": "d5df45f4dcb87bbeeba31dc8f775a641",
+            "title": "Transportation Design Engineer"
+        },
+        {
+            "uuid": "5e1a8c108471fa7c9aa162dc8c95300e",
+            "title": "Transportation Planning Engineer"
+        },
+        {
+            "uuid": "cd449e14d460fde75ab0b098cbdccdd4",
+            "title": "Airport Engineer"
+        },
+        {
+            "uuid": "4c4b284265aa0c0f7c19548c87a6c398",
+            "title": "Highway Engineer"
+        },
+        {
+            "uuid": "5e5e60a2ef1bdaf2957af6bfbcafe68d",
+            "title": "Transportation Engineer"
+        },
+        {
+            "uuid": "fd8b4035bc4bacdf53bedcf9b803f656",
+            "title": "Traffic Operations Engineer"
+        }],
+        {
+            "uuid": "1458f7aba7fa08b3920d2836d95ce518",
+            "onet_soc_code": "41-9031.00",
+            "title": "Sales Engineers",
+            "description": "Sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering.",
+            "related_job_titles": [
+                {
+                    "uuid": "b13cebc8bb11b04301c1a4492c4e4151",
+                    "title": "Aeronautical Products Sales Engineer"
+                },
+                {
+                    "uuid": "833f3eb9313bd1579db9784e7d868635",
+                    "title": "Aerospace Products Sales Engineer"
+                },
+                {
+                    "uuid": "863251b9a9e393d6b9442b5721fede34",
+                    "title": "Agricultural Equipment Sales Engineer"
+                },
+                {
+                    "uuid": "72bc5cc9adccb2e2689c81f1d496a172",
+                    "title": "Ceramic Products Sales Engineer"
+                },
+                {
+                    "uuid": "04d2139304b1e793608d9667c9d64b0a",
+                    "title": "Chemical Equipment Sales Engineer"
+                },
+                {
+                    "uuid": "3d200681f3265a53282c8713e0893ea4",
+                    "title": "Customer Engagement Manager"
+                },
+                {
+                    "uuid": "0752efe5622fb53fd80df254b83f4b30",
+                    "title": "Electrical Products Sales Engineer"
+                },
+                {
+                    "uuid": "871c205a6cce40a5db837a253326d15b",
+                    "title": "Electronics Products and Systems Sales Engineer"
+                },
+                {
+                    "uuid": "3b93f4bdc4ac0b989badaa07535aca92",
+                    "title": "HVAC Commercial Salesperson (Heating, Ventilation, and Air Conditioning Commercial Salesperson)"
+                },
+                {
+                    "uuid": "70e73c19a38c6ed39ab133f6e3fc37fc",
+                    "title": "Inside Sales Engineer"
+                },
+                {
+                    "uuid": "f1d77ce4f189bb6523318b71ca731868",
+                    "title": "Marine Equipment Sales Engineer"
+                },
+                {
+                    "uuid": "03a7d40fcbaee03040dc5d3ce5d86fef",
+                    "title": "Mechanical Equipment Sales Engineer"
+                },
+                {
+                    "uuid": "7f2179c840aa7c237b4e95c5d96ff041",
+                    "title": "Mining and Oil Well Equipment and Services Sales Engineer"
+                },
+                {
+                    "uuid": "9e149e543477e0e859231d228169e2b5",
+                    "title": "Missile Navigation Systems Sales Engineer"
+                },
+                {
+                    "uuid": "2c586dd7af10b31bb1f26735a99e42e2",
+                    "title": "Nuclear Equipment Sales Engineer"
+                },
+                {
+                    "uuid": "f300317b4342406ea8f0b9967475f9a2",
+                    "title": "Product Sales Engineer"
+                },
+                {
+                    "uuid": "0ff39f56497d1e56c931cdb593c74a58",
+                    "title": "Sales Engineer, Account Manager"
+                },
+                {
+                    "uuid": "7d55a443a29f02faac43d76166c37f67",
+                    "title": "Sales Engineer, Engineered Products"
+                },
+                {
+                    "uuid": "9fd94fc95c926cbf1940270c6296dd33",
+                    "title": "Senior Sales Engineer"
+                },
+                {
+                    "uuid": "25661cac2a8f6759f50810ba5a12299c",
+                    "title": "Technical Sales Engineer"
+                },
+                {
+                    "uuid": "c2edfa2b4f7712519915efb280104975",
+                    "title": "Account Leader"
+                },
+                {
+                    "uuid": "1ed0dcd04522999653c448ee83deb97a",
+                    "title": "Accounts Executive"
+                },
+                {
+                    "uuid": "aa56fa3b2b422dd95b4bbf662158fa50",
+                    "title": "Applications Engineer"
+                },
+                {
+                    "uuid": "04752cae42e8209854ad1c90ef53cc57",
+                    "title": "Field Marketing Representative"
+                },
+                {
+                    "uuid": "4e88de53dbfa7fddf03f15ad5fd53eec",
+                    "title": "Technical Account Manager"
+                },
+                {
+                    "uuid": "af9afdc6bb8ed4ba241b43afe0ed8e1a",
+                    "title": "Account Executive"
+                },
+                {
+                    "uuid": "a147da59e119a6d417afbeeca2346f35",
+                    "title": "Product Manager"
+                },
+                {
+                    "uuid": "628d200829ea1331e7118da5406ac92e",
+                    "title": "Sales Engineer"
+                }]
+                },
+            
+        {
+            "uuid": "a47412dd26fbda4c449c3e2a4a5289da",
+            "onet_soc_code": "13-1031.02",
+            "title": "Insurance Adjusters, Examiners, and Investigators",
+            "description": "Investigate, analyze, and determine the extent of insurance company's liability concerning personal, casualty, or property loss or damages, and attempt to effect settlement with claimants. Correspond with or interview medical specialists, agents, witnesses, or claimants to compile information. Calculate benefit payments and approve payment of claims within a certain monetary limit.",
+            "related_job_titles": [
+                {
+                    "uuid": "a0174f9b5f79f44434c18ab437ad1238",
+                    "title": "Auto Claims Adjuster"
+                },
+                {
+                    "uuid": "71aff9a94f7d2e830332c52c0b0d5846",
+                    "title": "Benefit Authorizer"
+                },
+                {
+                    "uuid": "90ca3185cffcec912bc2b20f3ecfe87b",
+                    "title": "Bodily Injury Adjuster"
+                },
+                {
+                    "uuid": "c1b2954a1fd76bfc692a4ed294b90813",
+                    "title": "Building Appraiser"
+                },
+                {
+                    "uuid": "21ef5f24e8599b3f947a94ce6ec38215",
+                    "title": "Catastrophe Claims Supervisor"
+                },
+                {
+                    "uuid": "18c802df91c7904bdd805ddc144f1807",
+                    "title": "Claim Examiner"
+                },
+                {
+                    "uuid": "a9e6a8285bee0533eb3ed7806f80ad38",
+                    "title": "Claim Investigator"
+                },
+                {
+                    "uuid": "e97581c9363dc1a2c281b6cb678e288d",
+                    "title": "Claim Specialist"
+                },
+                {
+                    "uuid": "a94069174173bb4e38ed4e9002952f53",
+                    "title": "Claims Adjustor"
+                },
+                {
+                    "uuid": "8617ee811e8ed87d8d43f5f25ef83d3f",
+                    "title": "Claims Service Adjustor"
+                },
+                {
+                    "uuid": "5ab2136a36b0c06381987703f64b0865",
+                    "title": "Clerical Adjuster"
+                },
+                {
+                    "uuid": "96f8060e143bcc17563db594c69a11ab",
+                    "title": "Disability Examiner"
+                },
+                {
+                    "uuid": "1e902abb80b6541d61be00f5970c0a31",
+                    "title": "Field Adjuster"
+                },
+                {
+                    "uuid": "49591039e2930bdcbf1ad85168428222",
+                    "title": "Field Liability Generalist"
+                },
+                {
+                    "uuid": "a9c90f2329726a728ce6ade44a73f49b",
+                    "title": "Fire Adjuster"
+                },
+                {
+                    "uuid": "b382cca3b0fd2a7efd23310a29f0e752",
+                    "title": "General Adjuster"
+                },
+                {
+                    "uuid": "794aeacf67973b1610051279b76d29f7",
+                    "title": "Insurance Adjuster"
+                },
+                {
+                    "uuid": "262e33c3839c576ab14f972ac2f7fbd5",
+                    "title": "Insurance Claims Adjuster"
+                },
+                {
+                    "uuid": "652468d39b82bf13fa3e902d1ce16d60",
+                    "title": "Insurance Inspector"
+                },
+                {
+                    "uuid": "0a1333b629b98ee0cab2573093563658",
+                    "title": "Litigation Claim Representative"
+                },
+                {
+                    "uuid": "3933de1c866f4f53c53af925d26b7820",
+                    "title": "Material Damage Adjuster"
+                },
+                {
+                    "uuid": "4442b6ea8339167a031f62e4c9c5baa4",
+                    "title": "Medical Claims Specialist"
+                },
+                {
+                    "uuid": "7b3cae8c02101ce4d63e54d8749c1e68",
+                    "title": "Multi-line Claims Adjuster"
+                },
+                {
+                    "uuid": "c77e180a20876c36c375e7ed3d18325a",
+                    "title": "Property Adjuster"
+                },
+                {
+                    "uuid": "701ce3c36468972e9e8e80a38eb45288",
+                    "title": "Property Claims Adjuster"
+                },
+                {
+                    "uuid": "6e146c81a76a651f86c02dc29217a0c0",
+                    "title": "Residential Insurance Inspector"
+                },
+                {
+                    "uuid": "5ed81fc5daea4c8da094ff47da116846",
+                    "title": "Salvage Determiner"
+                },
+                {
+                    "uuid": "812ffc525a52be9e0cb94337cb32c003",
+                    "title": "Telephone Claims Representative"
+                },
+                {
+                    "uuid": "2eb97ddf290c3f9533a58a3e3407be2f",
+                    "title": "Health Claims Examiner"
+                },
+                {
+                    "uuid": "08eec58c5cae2f94342162b75954a0f7",
+                    "title": "Independent Insurance Adjuster"
+                },
+                {
+                    "uuid": "38285c539ce407202ae104282474d082",
+                    "title": "Medical Claims Analyst"
+                },
+                {
+                    "uuid": "a20b266c4a39946fb194f1e48ce21220",
+                    "title": "Medical Claims Examiner"
+                },
+                {
+                    "uuid": "e834b24eca3cca9e14dae6f599ecb943",
+                    "title": "Workers Compensation Claims Adjuster"
+                },
+                {
+                    "uuid": "9fdff36e9b67b00c1e14e55ab42b286d",
+                    "title": "Claim Representative"
+                },
+                {
+                    "uuid": "e9256b6ae3464ddf81f5b62b6820ba03",
+                    "title": "Claims Adjuster"
+                },
+                {
+                    "uuid": "61320e3912a2b6791522f8840659fd64",
+                    "title": "Claims Analyst"
+                },
+                {
+                    "uuid": "52076100846f49d75002a358e2d19132",
+                    "title": "Claims Examiner"
+                },
+                {
+                    "uuid": "38872f48069ca8e861d2cf81e148f25e",
+                    "title": "Claims Specialist"
+                }]
+            }
+        ]
