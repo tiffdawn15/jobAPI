@@ -14,25 +14,27 @@ link the Skills SOC Code search with the general skills information.
 
 Models: 
 
-Jobs: 
-    uuid
-    title - link to SOC
-    normalizedJobTitle
-    parentUuid
+Jobs
+    uuid   
+    title - link to SOC  
+    normalizedJobTitle  
+    parentUuid  
 
-SOC: 
-    jobuuid
-    title -link to job
-    skills [ {
+SOC
+    jobuuid  
+    title -link to job  
+    skills [ {  
         uuidForSkills
-    }]
+    }]  
 
-Skills: 
-    uuid
-    name
-    type
-    description
-    onetElementID
+Skills
+    uuid  
+    name  
+    type  
+    description  
+    onetElementID  
     normalizedSkillName
 
 
+Questions I have: 
+- How do I get this into the 
