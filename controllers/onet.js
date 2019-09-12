@@ -5,6 +5,8 @@ module.exports = {
     index: (req, res) => {
       Onet.find({}).then(onet => {
         res.json(onet);
+        console.log(Onet.relatedJobTitles
+            )
       });
     },
     show:(req,res) => {
