@@ -7,6 +7,7 @@ controllerRouter.get("/", jobsController.index)
 controllerRouter.get("/title/:title", jobsController.show)
 controllerRouter.post("/", jobsController.create)
 controllerRouter.put("/update/:title", jobsController.update)
+controllerRouter.delete("/", jobsController.destroy)
 
 
 module.exports = controllerRouter;

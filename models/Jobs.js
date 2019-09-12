@@ -6,7 +6,12 @@
            uuid: String, 
            title: String, 
            normalizedJobTitle: String, 
-           parentUuid: String
+           parentUuid: String,
+           Soc: [{
+            ref:"Jobs",
+            type:mongoose.Schema.Types.ObjectId
+
+        }]
        })
        
 
