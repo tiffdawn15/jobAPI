@@ -1,5 +1,6 @@
-       const mongoose = require("../jobs.json")
+       const mongoose = require("../connection")
        const Schema = mongoose.Schema
+       
        
        const jobsSchema = new Schema({
            uuid: String, 

@@ -1,4 +1,4 @@
-       const mongoose = require("../skills.json")
+       const mongoose = require("../connection")
 
        const Schema = mongoose.Schema
 
@@ -7,8 +7,7 @@
            name: String, 
            type: String, 
            description: String, 
-           onetElementId: Number, 
-           normalizedSkillName: String
+ 
        })
        
        

@@ -1,4 +1,4 @@
-const mongoose = require("../jobs.json")
+const mongoose = require("../connection")
 const Schema = mongoose.Schema
 
 const relatedJobTitlesSchema = new Schema({
@@ -11,7 +11,7 @@ const onetSchema = new Schema ({
     onetSocCode: String, 
     title: String, 
     description: String, 
-    relatedJobTitles = [relatedJobTitlesSchema]
+    relatedJobTitles: [relatedJobTitlesSchema]
 
 })
 
