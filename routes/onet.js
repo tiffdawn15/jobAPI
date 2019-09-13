@@ -6,6 +6,6 @@ controllerRouter.get("/", onetController.index)
 controllerRouter.get("/title/:title", onetController.show)
 controllerRouter.post("/", onetController.create)
 controllerRouter.put("/update/:title", onetController.update)
-controllerRouter.delete("/", onetController.destroy)
+controllerRouter.delete("/delete/:title", onetController.destroy)
 
 module.exports = controllerRouter;

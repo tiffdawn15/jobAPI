@@ -7,9 +7,24 @@ const jobsJsonData = require("./jobs.json")
 const skillsJsonData = require("./skills.json")
 const onetJsonData = require("./onet.json")
 
+
+const jobsSeedData = jobsJsonData.map(jobsJson => {
+    const jobsData = {};
+
+    jobsData.uuid = jobsJson.uuid;
+    jobsData.title = jobsJson.title;
+    jobsData.normalized = jobsJson.normalized;
+
+    return jobsData;
+})
+
+
+
+
+
 Jobs.deleteMany({})
     .then(() => {
-        Jobs.create(jobsJsonData)
+        Jobs.create(jobsSeedData)
         .then(jobs => console.log(jobs))
         .catch(err => console.log(err))
     })

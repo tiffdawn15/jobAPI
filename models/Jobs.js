@@ -3,15 +3,14 @@
        
        
        const jobsSchema = new Schema({
-           uuid: String, 
+           
            title: String, 
-           normalizedJobTitle: String, 
-           parentUuid: String,
-           Soc: [{
-            ref:"Jobs",
-            type:mongoose.Schema.Types.ObjectId
+           normalized: String, 
+           onet: {
+            type:mongoose.Schema.Types.ObjectId,
+            ref:"Onet",
 
-        }]
+        }
        })
        
 

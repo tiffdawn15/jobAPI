@@ -1,320 +1,3182 @@
 [
     {
-    "uuid": "35599e2bf5c81b98e0d2a7bc55afa32c",
-    "onet_soc_code": "17-2051.01",
-    "title": "Transportation Engineers",
-    "description": "Develop plans for surface transportation projects, according to established engineering standards and state or federal construction policy. Prepare designs, specifications, or estimates for transportation facilities. Plan modifications of existing streets, highways, or freeways to improve traffic flow.",
-    "related_job_titles": [
-        {
-            "uuid": "e13b0c5ac5966dc5bc508acdd7a5972f",
-            "title": "Civil Transportation Engineer"
-        },
-        {
-            "uuid": "cd7d3d787aadcfb3daff4ccd13aacc57",
-            "title": "Roadway Engineer"
-        },
-        {
-            "uuid": "d5df45f4dcb87bbeeba31dc8f775a641",
-            "title": "Transportation Design Engineer"
-        },
-        {
-            "uuid": "5e1a8c108471fa7c9aa162dc8c95300e",
-            "title": "Transportation Planning Engineer"
-        },
-        {
-            "uuid": "cd449e14d460fde75ab0b098cbdccdd4",
-            "title": "Airport Engineer"
-        },
-        {
-            "uuid": "4c4b284265aa0c0f7c19548c87a6c398",
-            "title": "Highway Engineer"
-        },
-        {
-            "uuid": "5e5e60a2ef1bdaf2957af6bfbcafe68d",
-            "title": "Transportation Engineer"
-        },
-        {
-            "uuid": "fd8b4035bc4bacdf53bedcf9b803f656",
-            "title": "Traffic Operations Engineer"
-        }]
-    },
-        {
-            "uuid": "1458f7aba7fa08b3920d2836d95ce518",
-            "onet_soc_code": "41-9031.00",
-            "title": "Sales Engineers",
-            "description": "Sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering.",
-            "related_job_titles": [
-                {
-                    "uuid": "b13cebc8bb11b04301c1a4492c4e4151",
-                    "title": "Aeronautical Products Sales Engineer"
-                },
-                {
-                    "uuid": "833f3eb9313bd1579db9784e7d868635",
-                    "title": "Aerospace Products Sales Engineer"
-                },
-                {
-                    "uuid": "863251b9a9e393d6b9442b5721fede34",
-                    "title": "Agricultural Equipment Sales Engineer"
-                },
-                {
-                    "uuid": "72bc5cc9adccb2e2689c81f1d496a172",
-                    "title": "Ceramic Products Sales Engineer"
-                },
-                {
-                    "uuid": "04d2139304b1e793608d9667c9d64b0a",
-                    "title": "Chemical Equipment Sales Engineer"
-                },
-                {
-                    "uuid": "3d200681f3265a53282c8713e0893ea4",
-                    "title": "Customer Engagement Manager"
-                },
-                {
-                    "uuid": "0752efe5622fb53fd80df254b83f4b30",
-                    "title": "Electrical Products Sales Engineer"
-                },
-                {
-                    "uuid": "871c205a6cce40a5db837a253326d15b",
-                    "title": "Electronics Products and Systems Sales Engineer"
-                },
-                {
-                    "uuid": "3b93f4bdc4ac0b989badaa07535aca92",
-                    "title": "HVAC Commercial Salesperson (Heating, Ventilation, and Air Conditioning Commercial Salesperson)"
-                },
-                {
-                    "uuid": "70e73c19a38c6ed39ab133f6e3fc37fc",
-                    "title": "Inside Sales Engineer"
-                },
-                {
-                    "uuid": "f1d77ce4f189bb6523318b71ca731868",
-                    "title": "Marine Equipment Sales Engineer"
-                },
-                {
-                    "uuid": "03a7d40fcbaee03040dc5d3ce5d86fef",
-                    "title": "Mechanical Equipment Sales Engineer"
-                },
-                {
-                    "uuid": "7f2179c840aa7c237b4e95c5d96ff041",
-                    "title": "Mining and Oil Well Equipment and Services Sales Engineer"
-                },
-                {
-                    "uuid": "9e149e543477e0e859231d228169e2b5",
-                    "title": "Missile Navigation Systems Sales Engineer"
-                },
-                {
-                    "uuid": "2c586dd7af10b31bb1f26735a99e42e2",
-                    "title": "Nuclear Equipment Sales Engineer"
-                },
-                {
-                    "uuid": "f300317b4342406ea8f0b9967475f9a2",
-                    "title": "Product Sales Engineer"
-                },
-                {
-                    "uuid": "0ff39f56497d1e56c931cdb593c74a58",
-                    "title": "Sales Engineer, Account Manager"
-                },
-                {
-                    "uuid": "7d55a443a29f02faac43d76166c37f67",
-                    "title": "Sales Engineer, Engineered Products"
-                },
-                {
-                    "uuid": "9fd94fc95c926cbf1940270c6296dd33",
-                    "title": "Senior Sales Engineer"
-                },
-                {
-                    "uuid": "25661cac2a8f6759f50810ba5a12299c",
-                    "title": "Technical Sales Engineer"
-                },
-                {
-                    "uuid": "c2edfa2b4f7712519915efb280104975",
-                    "title": "Account Leader"
-                },
-                {
-                    "uuid": "1ed0dcd04522999653c448ee83deb97a",
-                    "title": "Accounts Executive"
-                },
-                {
-                    "uuid": "aa56fa3b2b422dd95b4bbf662158fa50",
-                    "title": "Applications Engineer"
-                },
-                {
-                    "uuid": "04752cae42e8209854ad1c90ef53cc57",
-                    "title": "Field Marketing Representative"
-                },
-                {
-                    "uuid": "4e88de53dbfa7fddf03f15ad5fd53eec",
-                    "title": "Technical Account Manager"
-                },
-                {
-                    "uuid": "af9afdc6bb8ed4ba241b43afe0ed8e1a",
-                    "title": "Account Executive"
-                },
-                {
-                    "uuid": "a147da59e119a6d417afbeeca2346f35",
-                    "title": "Product Manager"
-                },
-                {
-                    "uuid": "628d200829ea1331e7118da5406ac92e",
-                    "title": "Sales Engineer"
-                }]
-                },
-            
-        {
-            "uuid": "a47412dd26fbda4c449c3e2a4a5289da",
-            "onet_soc_code": "13-1031.02",
-            "title": "Insurance Adjusters, Examiners, and Investigators",
-            "description": "Investigate, analyze, and determine the extent of insurance company's liability concerning personal, casualty, or property loss or damages, and attempt to effect settlement with claimants. Correspond with or interview medical specialists, agents, witnesses, or claimants to compile information. Calculate benefit payments and approve payment of claims within a certain monetary limit.",
-            "related_job_titles": [
-                {
-                    "uuid": "a0174f9b5f79f44434c18ab437ad1238",
-                    "title": "Auto Claims Adjuster"
-                },
-                {
-                    "uuid": "71aff9a94f7d2e830332c52c0b0d5846",
-                    "title": "Benefit Authorizer"
-                },
-                {
-                    "uuid": "90ca3185cffcec912bc2b20f3ecfe87b",
-                    "title": "Bodily Injury Adjuster"
-                },
-                {
-                    "uuid": "c1b2954a1fd76bfc692a4ed294b90813",
-                    "title": "Building Appraiser"
-                },
-                {
-                    "uuid": "21ef5f24e8599b3f947a94ce6ec38215",
-                    "title": "Catastrophe Claims Supervisor"
-                },
-                {
-                    "uuid": "18c802df91c7904bdd805ddc144f1807",
-                    "title": "Claim Examiner"
-                },
-                {
-                    "uuid": "a9e6a8285bee0533eb3ed7806f80ad38",
-                    "title": "Claim Investigator"
-                },
-                {
-                    "uuid": "e97581c9363dc1a2c281b6cb678e288d",
-                    "title": "Claim Specialist"
-                },
-                {
-                    "uuid": "a94069174173bb4e38ed4e9002952f53",
-                    "title": "Claims Adjustor"
-                },
-                {
-                    "uuid": "8617ee811e8ed87d8d43f5f25ef83d3f",
-                    "title": "Claims Service Adjustor"
-                },
-                {
-                    "uuid": "5ab2136a36b0c06381987703f64b0865",
-                    "title": "Clerical Adjuster"
-                },
-                {
-                    "uuid": "96f8060e143bcc17563db594c69a11ab",
-                    "title": "Disability Examiner"
-                },
-                {
-                    "uuid": "1e902abb80b6541d61be00f5970c0a31",
-                    "title": "Field Adjuster"
-                },
-                {
-                    "uuid": "49591039e2930bdcbf1ad85168428222",
-                    "title": "Field Liability Generalist"
-                },
-                {
-                    "uuid": "a9c90f2329726a728ce6ade44a73f49b",
-                    "title": "Fire Adjuster"
-                },
-                {
-                    "uuid": "b382cca3b0fd2a7efd23310a29f0e752",
-                    "title": "General Adjuster"
-                },
-                {
-                    "uuid": "794aeacf67973b1610051279b76d29f7",
-                    "title": "Insurance Adjuster"
-                },
-                {
-                    "uuid": "262e33c3839c576ab14f972ac2f7fbd5",
-                    "title": "Insurance Claims Adjuster"
-                },
-                {
-                    "uuid": "652468d39b82bf13fa3e902d1ce16d60",
-                    "title": "Insurance Inspector"
-                },
-                {
-                    "uuid": "0a1333b629b98ee0cab2573093563658",
-                    "title": "Litigation Claim Representative"
-                },
-                {
-                    "uuid": "3933de1c866f4f53c53af925d26b7820",
-                    "title": "Material Damage Adjuster"
-                },
-                {
-                    "uuid": "4442b6ea8339167a031f62e4c9c5baa4",
-                    "title": "Medical Claims Specialist"
-                },
-                {
-                    "uuid": "7b3cae8c02101ce4d63e54d8749c1e68",
-                    "title": "Multi-line Claims Adjuster"
-                },
-                {
-                    "uuid": "c77e180a20876c36c375e7ed3d18325a",
-                    "title": "Property Adjuster"
-                },
-                {
-                    "uuid": "701ce3c36468972e9e8e80a38eb45288",
-                    "title": "Property Claims Adjuster"
-                },
-                {
-                    "uuid": "6e146c81a76a651f86c02dc29217a0c0",
-                    "title": "Residential Insurance Inspector"
-                },
-                {
-                    "uuid": "5ed81fc5daea4c8da094ff47da116846",
-                    "title": "Salvage Determiner"
-                },
-                {
-                    "uuid": "812ffc525a52be9e0cb94337cb32c003",
-                    "title": "Telephone Claims Representative"
-                },
-                {
-                    "uuid": "2eb97ddf290c3f9533a58a3e3407be2f",
-                    "title": "Health Claims Examiner"
-                },
-                {
-                    "uuid": "08eec58c5cae2f94342162b75954a0f7",
-                    "title": "Independent Insurance Adjuster"
-                },
-                {
-                    "uuid": "38285c539ce407202ae104282474d082",
-                    "title": "Medical Claims Analyst"
-                },
-                {
-                    "uuid": "a20b266c4a39946fb194f1e48ce21220",
-                    "title": "Medical Claims Examiner"
-                },
-                {
-                    "uuid": "e834b24eca3cca9e14dae6f599ecb943",
-                    "title": "Workers Compensation Claims Adjuster"
-                },
-                {
-                    "uuid": "9fdff36e9b67b00c1e14e55ab42b286d",
-                    "title": "Claim Representative"
-                },
-                {
-                    "uuid": "e9256b6ae3464ddf81f5b62b6820ba03",
-                    "title": "Claims Adjuster"
-                },
-                {
-                    "uuid": "61320e3912a2b6791522f8840659fd64",
-                    "title": "Claims Analyst"
-                },
-                {
-                    "uuid": "52076100846f49d75002a358e2d19132",
-                    "title": "Claims Examiner"
-                },
-                {
-                    "uuid": "38872f48069ca8e861d2cf81e148f25e",
-                    "title": "Claims Specialist"
-                }]
+        "uuid": "74ea93ca3024c3d00d6709ae9e099ad2",
+        "onet_soc_code": "47-4041.00",
+        "title": "Hazardous Materials Removal Workers",
+        "description": "Identify, remove, pack, transport, or dispose of hazardous materials, including asbestos, lead-based paint, waste oil, fuel, transmission fluid, radioactive materials, or contaminated soil. Specialized training and certification in hazardous materials handling or a confined entry permit are generally required. May operate earth-moving equipment or trucks.",
+        "related_job_titles": [
+            {
+                "uuid": "1708c7b27f484865d8891a605b91c27c",
+                "title": "Abatement Worker"
+            },
+            {
+                "uuid": "c4df5558d9b47db7b94c8638af40ff8a",
+                "title": "Asbestos Abatement Worker"
+            },
+            {
+                "uuid": "6b6ed5fd6308cc4a4a50ce362dcb3140",
+                "title": "Asbestos Coverer"
+            },
+            {
+                "uuid": "9f1fc3b23ae7adcccdbc1b568eccd082",
+                "title": "Asbestos Handler"
+            },
+            {
+                "uuid": "707c8b628e98820028f4cd795fe275b4",
+                "title": "Asbestos Hazard Abatement Worker"
+            },
+            {
+                "uuid": "79b20f65c06a9cede6b31bc35c050960",
+                "title": "Asbestos Remover"
+            },
+            {
+                "uuid": "85f9669496efae5bdd3042aeb9b1b1a8",
+                "title": "Asbestos Worker"
+            },
+            {
+                "uuid": "cffa1824aaa23187f51cff8fec9fb8e7",
+                "title": "Decontamination / Decommissioning Operator (D & D Operator)"
+            },
+            {
+                "uuid": "6b289e1d9ad0cc484f486ea3e5e8ca71",
+                "title": "Decontamination Worker"
+            },
+            {
+                "uuid": "d18ed3b2fe195d2cbe69c9f604c61685",
+                "title": "Hazard Waste Handler"
+            },
+            {
+                "uuid": "3af16e0e4308cbae12556e53b1b5183f",
+                "title": "Hazardous Material Specialist"
+            },
+            {
+                "uuid": "34a7abfbe128e3056a1cd122d8571e08",
+                "title": "Hazardous Materials Driver (Hazmat Driver)"
+            },
+            {
+                "uuid": "8660a8a42feeae51a6155b39e5e96584",
+                "title": "Hazardous Materials Handler"
+            },
+            {
+                "uuid": "32874fe18d2e9156eddc357d21e41a04",
+                "title": "Hazardous Materials Tanker Driver (Hazmat Tanker Driver)"
+            },
+            {
+                "uuid": "94eb7339a81ffb7bd48697c8313dcff1",
+                "title": "Hazardous Waste Remover"
+            },
+            {
+                "uuid": "2a764cd42ffe5082af7e21e3184fcf2b",
+                "title": "Hazmat Technician (Hazardous Materials Technician)"
+            },
+            {
+                "uuid": "c2351aa626df867d1581e632f338185c",
+                "title": "Irradiated Fuel Handler"
+            },
+            {
+                "uuid": "4264694dee8dd2d5719d0bb2e54aaf61",
+                "title": "Junk Removal Specialist"
+            },
+            {
+                "uuid": "d94000f2d65fe3bd0f8b44f71f9c91a7",
+                "title": "Material Handling Technician"
+            },
+            {
+                "uuid": "1caaf1ca5b11e1a64b5fa40087d967d3",
+                "title": "Material Specialist"
+            },
+            {
+                "uuid": "5bbba3d0df3d4678012fe190f0b1cfce",
+                "title": "Radiological Control and Safety Technician"
+            },
+            {
+                "uuid": "46f4aeddbd37f165e6c461c884789cc6",
+                "title": "Site Worker"
+            },
+            {
+                "uuid": "01df0fbabc04f2fd4939b76697834758",
+                "title": "Waste Handling Technician"
+            }
+    ]}, 
+    {
+        "uuid": "d72271093395fd0e5f645037b6b68e70",
+        "onet_soc_code": "51-1011.00",
+        "title": "First-Line Supervisors of Production and Operating Workers",
+        "description": "Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators.",
+        "related_job_titles": [
+            {
+                "uuid": "c674afc952704491409885ad88bd7fa5",
+                "title": "Abattoir Supervisor"
+            },
+            {
+                "uuid": "fecd3f1ac5091a6a0172454554d82ca9",
+                "title": "Abrasive and Polished Products Supervisor"
+            },
+            {
+                "uuid": "e65c3d6fbfdcfdaa34f64fc91e0bd2f7",
+                "title": "Acid Supervisor"
+            },
+            {
+                "uuid": "340a218904037330c5e833287a9963d1",
+                "title": "Aerosol Supervisor"
+            },
+            {
+                "uuid": "dfaa02f28889931d80a5184fc2a236a0",
+                "title": "Aging Department Supervisor"
+            },
+            {
+                "uuid": "f998ac225ea765ac38493b9b0bd61fab",
+                "title": "Agricultural Chemicals Shift Superintendent"
+            },
+            {
+                "uuid": "e1c8840923f54fdeb94a58cdbe91ac2c",
+                "title": "Alteration Workroom Supervisor"
+            },
+            {
+                "uuid": "7dea8494aa686cf769144a8eff7ad2c5",
+                "title": "Alum Plant Supervisor"
+            },
+            {
+                "uuid": "61d00773d86a8091bd3c4157103109ec",
+                "title": "Alumina Plant Supervisor"
+            },
+            {
+                "uuid": "ad96fc416095ae269e449863f7b278b9",
+                "title": "Aluminum Boat Assembly Supervisor"
+            },
+            {
+                "uuid": "18b5d6c835112980387a2e7d754e9df5",
+                "title": "Aluminum Fabrication Supervisor"
+            },
+            {
+                "uuid": "4708128f939bccf5fc17f1532219e402",
+                "title": "Ammunition Supervisor"
+            },
+            {
+                "uuid": "4711700b519a74026000d520b8cfc876",
+                "title": "Anhydrous Ammonia Production Supervisor"
+            },
+            {
+                "uuid": "03054e30aadd6ac1f3e1f5cfcbc8a67d",
+                "title": "Anode Crew Supervisor"
+            },
+            {
+                "uuid": "22a5902126265d1f82414d035ddd0d5a",
+                "title": "Art Objects Supervisor"
+            },
+            {
+                "uuid": "b7b11b20186865e13452aa753be679da",
+                "title": "Artificial Flowers Supervisor"
+            },
+            {
+                "uuid": "c126465b7196cd90e113cd14ca908b83",
+                "title": "Asbestos Pipe Supervisor"
+            },
+            {
+                "uuid": "a3a373524b7963aa7ff02850603c8a53",
+                "title": "Asbestos Textile Supervisor"
+            },
+            {
+                "uuid": "71996b41763c3cc0fc46857935ed2f0e",
+                "title": "Asbestos-Cement Sheet Supervisor"
+            },
+            {
+                "uuid": "f233819d547465eb0035263e3c19735e",
+                "title": "Assembly and Packing Supervisor"
+            },
+            {
+                "uuid": "6821e508cf7cecf56cb29875da5824a0",
+                "title": "Assembly Department Supervisor"
+            },
+            {
+                "uuid": "6b349dde0a57b336250cb8eacc175555",
+                "title": "Assembly Line Supervisor"
+            },
+            {
+                "uuid": "efe8e9eb5d3b4a7a62b39b08305bcb76",
+                "title": "Assembly Room Supervisor"
+            },
+            {
+                "uuid": "73ca788a7bda5d72add6ecfe6fc174c8",
+                "title": "Assembly Supervisor"
+            },
+            {
+                "uuid": "1ca192cf89219b2cb4d25efb8bff1a1e",
+                "title": "Automatic Machines Supervisor"
+            },
+            {
+                "uuid": "791a8fe21b421e736db52573afd777c0",
+                "title": "Automobile Assembly Supervisor"
+            },
+            {
+                "uuid": "21ab3420214b609ead6bc72764b0a60f",
+                "title": "Automotive Tire-Testing Supervisor"
+            },
+            {
+                "uuid": "440112efe3011c37222ef23b1f3db58a",
+                "title": "Bakery Supervisor"
+            },
+            {
+                "uuid": "91a0057dbd875e9ddc03c7ba187125be",
+                "title": "Beam Department Supervisor"
+            },
+            {
+                "uuid": "fdf81147abf35a980cc340c19ea47957",
+                "title": "Beater Boss"
+            },
+            {
+                "uuid": "c13fbb13b9e58de3e99c8f1b414815e6",
+                "title": "Beater Room Supervisor"
+            },
+            {
+                "uuid": "eeb868febafecc97982fcd9ae8b41c68",
+                "title": "Beehive Kiln Supervisor"
+            },
+            {
+                "uuid": "4dfa2aa3150e9e0214c11c66fb15eab2",
+                "title": "Beet End Supervisor"
+            },
+            {
+                "uuid": "407fa66313239323482d406a744b0bd7",
+                "title": "Belt and Link Assembly Supervisor"
+            },
+            {
+                "uuid": "400d7cb9a63b8928ecdcc19616e825d1",
+                "title": "Bindery Supervisor"
+            },
+            {
+                "uuid": "323db58d707fcc6d8aee3bd5f411b0f2",
+                "title": "Bit and Shank Department Supervisor"
+            },
+            {
+                "uuid": "cc26becc128509450d30412a2490e302",
+                "title": "Blast Furnace Auxiliaries Supervisor"
+            },
+            {
+                "uuid": "1647646a440b816edc25b70225cbfeac",
+                "title": "Blast Furnace Supervisor"
+            },
+            {
+                "uuid": "483ae7afadd486c62236b89ab0926cf5",
+                "title": "Bleach Supervisor"
+            },
+            {
+                "uuid": "5f3669659010436730202d4187cfead3",
+                "title": "Blending Supervisor"
+            },
+            {
+                "uuid": "96df1b133e83cbf2d9c734f79e69fb19",
+                "title": "Blooming Mill Supervisor"
+            },
+            {
+                "uuid": "c343de8354ebe0645af24f8a12e40e78",
+                "title": "Blueprinting and Photocopy Supervisor"
+            },
+            {
+                "uuid": "62e2f8ede1275b4b53a1bdfb4a1333ed",
+                "title": "Board Mill Supervisor"
+            },
+            {
+                "uuid": "e78d6af05a2efe6a19319a6ad3661f5d",
+                "title": "Boat Cleaning Supervisor"
+            },
+            {
+                "uuid": "61297283e789d208e7124c0884bcde2f",
+                "title": "Boat Outfitting Supervisor"
+            },
+            {
+                "uuid": "5e1d2bcf3335f3158af6606aa919f24a",
+                "title": "Boatbuilder Supervisor"
+            },
+            {
+                "uuid": "c9b0e74a6d4456454bf84e19a67b917f",
+                "title": "Boiler Operators Supervisor"
+            },
+            {
+                "uuid": "95a428137e7062dc482ed0507399d554",
+                "title": "Boiler Tenders Supervisor"
+            },
+            {
+                "uuid": "084c866e4473b0497216788aaf7a2675",
+                "title": "Bonding Supervisor"
+            },
+            {
+                "uuid": "f04c74008096ea518ce283451fce77e9",
+                "title": "Bone Plant Supervisor"
+            },
+            {
+                "uuid": "5bdd919d46483dd8fdf76580eb53cca3",
+                "title": "Boots and Shoes Supervisor"
+            },
+            {
+                "uuid": "5859831e2b3db23528c710b1451e13fc",
+                "title": "Boss"
+            },
+            {
+                "uuid": "b56a7cf016a9eb880b6c81b2cb1bd952",
+                "title": "Bottle House Cleaners Supervisor"
+            },
+            {
+                "uuid": "322a03823e5626862e09fb77a1e5378e",
+                "title": "Breaker Boss"
+            },
+            {
+                "uuid": "1445a0b5ff490723f6495bb840dc67c6",
+                "title": "Brew House Supervisor"
+            },
+            {
+                "uuid": "48aac7e3e285a9fc346c015e78c99377",
+                "title": "Briar Shop Supervisor"
+            },
+            {
+                "uuid": "214de50712fa6d094f418787312eba7e",
+                "title": "Brine Supervisor"
+            },
+            {
+                "uuid": "e58df2a8a51a6c01be08421e7074f13d",
+                "title": "Brineyard Supervisor"
+            },
+            {
+                "uuid": "6dbbcceac611e56d0a9c3782bc9f576f",
+                "title": "Broommaking Supervisor"
+            },
+            {
+                "uuid": "af1ffa176545d7a3d37c44f75e16090a",
+                "title": "Brush Fabrication Supervisor"
+            },
+            {
+                "uuid": "3f3e3e5dafcd161418e80f33fe840e1f",
+                "title": "Burling and Joining Supervisor"
+            },
+            {
+                "uuid": "47a553889c121a8f8da7bd8601160fe2",
+                "title": "Burning Supervisor"
+            },
+            {
+                "uuid": "ad0ae029cf12c4c8fe7a719444bb0c80",
+                "title": "Burning, Forming, and Assembly Supervisor"
+            },
+            {
+                "uuid": "e881fb76912e747f6d3df0a28ca75bde",
+                "title": "Butcher Supervisor"
+            },
+            {
+                "uuid": "d38977cfe5f896ab95c66508af6b7bd7",
+                "title": "Byproducts Supervisor"
+            },
+            {
+                "uuid": "123c265b9e0afc9c3eef470ceac8dbad",
+                "title": "C D Area Supervisor"
+            },
+            {
+                "uuid": "cd2407a3a6096131da62ef3a8d37b4a7",
+                "title": "Calender Supervisor"
+            },
+            {
+                "uuid": "6604029991070e60a90c0b4579294642",
+                "title": "Calendering Supervisor"
+            },
+            {
+                "uuid": "89c2e9be32887d67017117905ac03737",
+                "title": "Candle Making Supervisor"
+            },
+            {
+                "uuid": "64375ffa2d0b5fceb8f88e92ae9acb9a",
+                "title": "Candy Supervisor"
+            },
+            {
+                "uuid": "9490411b4dd181d9ea98b0cf6a6f1504",
+                "title": "Canvas Goods Supervisor"
+            },
+            {
+                "uuid": "6dadfb6fc7e60ade76bbbc4c20b8fd30",
+                "title": "Cap and Hat Production Supervisor"
+            },
+            {
+                "uuid": "4fc326564b515257c99f05c2521babe3",
+                "title": "Car Installations Supervisor"
+            },
+            {
+                "uuid": "a11f60a751cb4d042237c39a2390935a",
+                "title": "Carbon Electrodes Supervisor"
+            },
+            {
+                "uuid": "8c28ec738b36f16c1648061762c47af7",
+                "title": "Carbon Paper Coating Supervisor"
+            },
+            {
+                "uuid": "8e232a6cf13125665e3ac96d1dbecae3",
+                "title": "Carding Supervisor"
+            },
+            {
+                "uuid": "743e6757f2c874b97b0ed6a3aedfdc11",
+                "title": "Carton and Can Supply Supervisor"
+            },
+            {
+                "uuid": "ff322e6a9ee7fb55f205cd8beddef020",
+                "title": "Casting and Pasting Supervisor"
+            },
+            {
+                "uuid": "690ead2cdf595112bd5d67cedeeb02dc",
+                "title": "Casting Supervisor"
+            },
+            {
+                "uuid": "ac9e0c65c07555704b2ac92e787e92fc",
+                "title": "Caustic Cresylate Shift Superintendent"
+            },
+            {
+                "uuid": "ddbd3071f09d0cf41543bd9487c7bd80",
+                "title": "Cell Efficiency Supervisor"
+            },
+            {
+                "uuid": "707dc3121a975c87482f2eb913912111",
+                "title": "Cell Feed Department Supervisor"
+            },
+            {
+                "uuid": "4dde2fffe04264cef76f41d8be160964",
+                "title": "Cell Operation Supervisor"
+            },
+            {
+                "uuid": "c71ef2ca039f7e874f916178bee3d48e",
+                "title": "Cell Room Supervisor"
+            },
+            {
+                "uuid": "905643bfc02269b79d9382280579273d",
+                "title": "Cellar Supervisor"
+            },
+            {
+                "uuid": "c592ba05a76aa8338c8bd9d8b2d7bfb4",
+                "title": "Cereal Supervisor"
+            },
+            {
+                "uuid": "8326c56a0349218d7455a37310712a8c",
+                "title": "Channel Process Supervisor"
+            },
+            {
+                "uuid": "d7d21a7db759257d2602baae0851b7de",
+                "title": "Char House Supervisor"
+            },
+            {
+                "uuid": "dd3a26d9e0d8a760a4be906c8f111cec",
+                "title": "Chemical Plant Operator Supervisor"
+            },
+            {
+                "uuid": "dba7716060e083244702b83fef8bd326",
+                "title": "Chemical Processing Supervisor"
+            },
+            {
+                "uuid": "8e2c6aecf92b663b6bfed8598b7bc15e",
+                "title": "Chemical Supervisor"
+            },
+            {
+                "uuid": "fe9dfb564c9d87cbd8303bb2b3a52f3a",
+                "title": "Chest Painting and Sealing Supervisor"
+            },
+            {
+                "uuid": "fd1a93b9ff8ace58f8303e151bfd23e7",
+                "title": "Chief Catalyst Operator"
+            },
+            {
+                "uuid": "6f524ae8f38c998cf4d947919da1f3c8",
+                "title": "Chief Dispatcher"
+            },
+            {
+                "uuid": "ebe91794961451993076ec255e27d54e",
+                "title": "Chief Recordist"
+            },
+            {
+                "uuid": "89544b9db4fd276d0bffa5452c41a2aa",
+                "title": "Chief Substation Operator"
+            },
+            {
+                "uuid": "2c831923e62e0775f0077856c374d7f4",
+                "title": "Chief Transfer and Pumphouse Operator"
+            },
+            {
+                "uuid": "c3887a406cef48461feaec890bd47434",
+                "title": "Chocolate and Cocoa Processing Supervisor"
+            },
+            {
+                "uuid": "32b7b66e2fe9973615e8a922c3e5128d",
+                "title": "Cigar Making Machine Supervisor"
+            },
+            {
+                "uuid": "47409d26d5ecc4c6cd501f8e1f7127f0",
+                "title": "Cigar Making Supervisor"
+            },
+            {
+                "uuid": "439d5b724974f59557450c7a28f52276",
+                "title": "Cigar Tobacco Processing Supervisor"
+            },
+            {
+                "uuid": "2f7daa763bfd7656f30eb51b33e29b7c",
+                "title": "Clay Preparation Supervisor"
+            },
+            {
+                "uuid": "189ddf2493f568d957e9837d8b12076f",
+                "title": "Clay Shop Supervisor"
+            },
+            {
+                "uuid": "24cf6f96b6218b1c8951a4bf176291c9",
+                "title": "Cloth Grader Supervisor"
+            },
+            {
+                "uuid": "6a2e32cf399c1f56dd8dc0f23e575def",
+                "title": "Cloth Winding Supervisor"
+            },
+            {
+                "uuid": "2c427e9f2e6cbcd002a713cd69b21576",
+                "title": "CNC Supervisor (Computer Numerical Control Supervisor)"
+            },
+            {
+                "uuid": "1a5976611b928c54405be96547d31fb6",
+                "title": "Coal Handling Supervisor"
+            },
+            {
+                "uuid": "74f1ca5ec961f30d6363022f382367e3",
+                "title": "Coal or Ore Controller"
+            },
+            {
+                "uuid": "b8b3ef80a150a086ad448b33888ac4f9",
+                "title": "Coating Mixer Supervisor"
+            },
+            {
+                "uuid": "9a5c03b6a1f09d370c74ab22c15c91b7",
+                "title": "Coating Supervisor"
+            },
+            {
+                "uuid": "46c9d4f1a3b796f0bf8b6b3b3edba060",
+                "title": "Coffee Supervisor"
+            },
+            {
+                "uuid": "930a9b4238288d1b9655c049ef504190",
+                "title": "Coil Winding Supervisor"
+            },
+            {
+                "uuid": "ad3003e35ead586d448000fb08741af1",
+                "title": "Coin Machine Supervisor"
+            },
+            {
+                "uuid": "1e0938b09017c588fee97fcdab8e5c5c",
+                "title": "Coke Handling Supervisor"
+            },
+            {
+                "uuid": "154121bcaddabb62603d2ffc1248f419",
+                "title": "Cold Rolling Supervisor"
+            },
+            {
+                "uuid": "284764600cab336d9b6eed57f3bbafc5",
+                "title": "Cold Storage Superintendent"
+            },
+            {
+                "uuid": "63b884f3e04e4be3ced1970a71d4a9ad",
+                "title": "Color Paste Mixing Supervisor"
+            },
+            {
+                "uuid": "f5acb69e655ba236694588eaa58cac93",
+                "title": "Component Assembler Supervisor"
+            },
+            {
+                "uuid": "c05339b0cce5e2f92906bc28d5bebcf4",
+                "title": "Compounding and Finishing Supervisor"
+            },
+            {
+                "uuid": "c00991f131bc0c02f8fc959f2fb33b1d",
+                "title": "Compressed Yeast Supervisor"
+            },
+            {
+                "uuid": "6bd03a7e00a8a0115c53f86d66007ac0",
+                "title": "Compressor Station Chief Engineer"
+            },
+            {
+                "uuid": "9a7b7663c5df6499f45ea48f346c89b9",
+                "title": "Concrete Batching and Mixing Plant Supervisor"
+            },
+            {
+                "uuid": "3f3d335dedc20c95da27456e41bda59c",
+                "title": "Concrete Block Plant Supervisor"
+            },
+            {
+                "uuid": "b2d0db093590584aad51a1009ac94495",
+                "title": "Concrete Pipe Plant Supervisor"
+            },
+            {
+                "uuid": "4303b9aa8415a1838aa5eae394a1ea1b",
+                "title": "Concrete Stone Fabricating Supervisor"
+            },
+            {
+                "uuid": "f558ed007642e5523d5e540bfa2bf2e4",
+                "title": "Concrete Stone Finishing Supervisor"
+            },
+            {
+                "uuid": "53a828997ad223ea221342af5d601ceb",
+                "title": "Conditioning Yard Supervisor"
+            },
+            {
+                "uuid": "3c46fe957e8c351a39ed0e08a9eac6df",
+                "title": "Continuous Weld Pipe Mill Supervisor"
+            },
+            {
+                "uuid": "d3de931326992cd165b2d7824ee056e2",
+                "title": "Converter Supervisor"
+            },
+            {
+                "uuid": "410e8711907b999d06c4b5e663341717",
+                "title": "Converting Supervisor"
+            },
+            {
+                "uuid": "a41b7b2bf8c03758f08b8309eff9e85c",
+                "title": "Cook House Supervisor"
+            },
+            {
+                "uuid": "26043b5fccd276047074a7f64a5af0b1",
+                "title": "Cook Room Supervisor"
+            },
+            {
+                "uuid": "e0ccd16b7fd23b68f25a8e9d0a0a64ef",
+                "title": "Cooking, Casing, and Drying Supervisor"
+            },
+            {
+                "uuid": "94a665b26243a805d9f7974ad377c8b0",
+                "title": "Cooperage Shop Supervisor"
+            },
+            {
+                "uuid": "d0f2cbb355e1fb09062c60a366821da5",
+                "title": "Corduroy Cutting Supervisor"
+            },
+            {
+                "uuid": "ea51e4eccd22c34dbe4d79614ea71bb4",
+                "title": "Coremaker Supervisor"
+            },
+            {
+                "uuid": "e70613931ad9748208de85e11f578dcb",
+                "title": "Corncob Pipe Manufacturing Supervisor"
+            },
+            {
+                "uuid": "eb3250b58daf682e7fe69d434a648d77",
+                "title": "Corncob Pipe Supervisor"
+            },
+            {
+                "uuid": "f4a6d89be36bec18f857c748d7d06129",
+                "title": "Cosmetics Supervisor"
+            },
+            {
+                "uuid": "ebc6e7131b405c91a905741d361c837c",
+                "title": "Covering and Lining Supervisor"
+            },
+            {
+                "uuid": "a021a732ca67d2cd62babe2dd8022c40",
+                "title": "Crusher Supervisor"
+            },
+            {
+                "uuid": "dcc049143f9ec3979c7fa5bf723211b2",
+                "title": "Cured Meat Packing Supervisor"
+            },
+            {
+                "uuid": "6029155794759192bce324fe9afc4708",
+                "title": "Cured Meats Supervisor"
+            },
+            {
+                "uuid": "aaa7b149b577fd70429a8ee8fe6a455a",
+                "title": "Curing Room Supervisor"
+            },
+            {
+                "uuid": "8d4e37a7b87c79e6af518a52f2c230e5",
+                "title": "Custom Feed Mill Operator"
+            },
+            {
+                "uuid": "45a50edea4cb12891e488e457f76e57e",
+                "title": "Cutting and Boning Supervisor"
+            },
+            {
+                "uuid": "77051f29558137f08176ed89af6e7333",
+                "title": "Cutting and Sewing Department Supervisor"
+            },
+            {
+                "uuid": "a355cd46b2267f23a2242e5547dfd6a2",
+                "title": "Cutting and Splicing Supervisor"
+            },
+            {
+                "uuid": "e228f1cdeb9331ca09992132ce1ee2a7",
+                "title": "Cutting Department Supervisor"
+            },
+            {
+                "uuid": "46643f868591bc209b325ba9026471ba",
+                "title": "Cutting Supervisor"
+            },
+            {
+                "uuid": "6febc75ac31ecb83cc3ff1b90d8a8e0a",
+                "title": "Dairy Processing Supervisor"
+            },
+            {
+                "uuid": "920e47712feb47ca952e8e8279c0dec0",
+                "title": "Decorating and Assembly Supervisor"
+            },
+            {
+                "uuid": "a7e19f5f7202a0cf434d0e2e0a14887b",
+                "title": "Decorating Supervisor"
+            },
+            {
+                "uuid": "6f2e23a61aa08a180020bd888c9dda00",
+                "title": "Defluorinated Phosphate Production Supervisor"
+            },
+            {
+                "uuid": "162d092925137f3dee30243640c6c198",
+                "title": "Dehydrogenation Supervisor"
+            },
+            {
+                "uuid": "91cfb614fc52385dea8864febbab4829",
+                "title": "Dental Laboratory Supervisor"
+            },
+            {
+                "uuid": "1a3c554dee67cf3ece086ce5563280d2",
+                "title": "Dials Supervisor"
+            },
+            {
+                "uuid": "71cbfbd4d66bcfcda2bc0e3fa49bc2cf",
+                "title": "Diamond Finishing Supervisor"
+            },
+            {
+                "uuid": "c5bf55b39622a740369d8840d5c27724",
+                "title": "Die Cast Supervisor"
+            },
+            {
+                "uuid": "733459d0020dfa30b8d26ce453d3ba84",
+                "title": "Die Casting Supervisor"
+            },
+            {
+                "uuid": "0c513968767eac07be4891bf76500101",
+                "title": "Dimension Warehouse Supervisor"
+            },
+            {
+                "uuid": "438129599a30b26b84cf24652044b9c6",
+                "title": "Display Fabrication Supervisor"
+            },
+            {
+                "uuid": "d7c7310e0504c8720b0059c078cb8c3a",
+                "title": "Distilling Department Supervisor"
+            },
+            {
+                "uuid": "819d2f62b75900b332a13c3d433355bf",
+                "title": "District Gauger"
+            },
+            {
+                "uuid": "414203590483f6446c382a7643ccfe44",
+                "title": "Drawing Kiln Supervisor"
+            },
+            {
+                "uuid": "174638ca3cdf90aedb14bad0890d601a",
+                "title": "Drawing Supervisor"
+            },
+            {
+                "uuid": "e78402adb6220a6ed6266b2d3e67fa80",
+                "title": "Dried Yeast Supervisor"
+            },
+            {
+                "uuid": "bad3c661921163a70f3e5c3383e0e03a",
+                "title": "Dry Cell Assembly Supervisor"
+            },
+            {
+                "uuid": "b4d45838d94625e7f8fca49fb0892dc0",
+                "title": "Dry Cleaning Supervisor"
+            },
+            {
+                "uuid": "7978f1fd67e5a73967e3c3642f3bb975",
+                "title": "Dry Paste Supervisor"
+            },
+            {
+                "uuid": "ad3d98b77ee3208bd0a9a50b1e3ffd0b",
+                "title": "Dry Starch Supervisor"
+            },
+            {
+                "uuid": "50741b7a4c8746f38880b9dfa0a14f4e",
+                "title": "Dry-Cell Assembly Supervisor"
+            },
+            {
+                "uuid": "ad0402861f827c4420744fc6ab7ab556",
+                "title": "Dry-Starch Supervisor"
+            },
+            {
+                "uuid": "5ca08bae28005d1f4addf5cf800d06ed",
+                "title": "Drying and Winding Supervisor"
+            },
+            {
+                "uuid": "2140e10f7b9733180a09be0d8a10cc3f",
+                "title": "Drying Supervisor"
+            },
+            {
+                "uuid": "17aecbe3a08846e734119a0f14cb3ce6",
+                "title": "Dye-House Supervisor"
+            },
+            {
+                "uuid": "46a55998e2fb0f0c7cf553e9e9beefa1",
+                "title": "Edging Supervisor"
+            },
+            {
+                "uuid": "cde7560f055b538a4a3f8d19abea9383",
+                "title": "Egg Processing Supervisor"
+            },
+            {
+                "uuid": "c98787b3c42f68b01f8e91c1438ca23c",
+                "title": "Electrical Assemblies Supervisor"
+            },
+            {
+                "uuid": "a815d28ee823a365aa5c131d75d2cf72",
+                "title": "Electrical Assembly Supervisor"
+            },
+            {
+                "uuid": "60b1f6d35e532f25c2231c0ec9070de3",
+                "title": "Electronic Coils Supervisor"
+            },
+            {
+                "uuid": "9247188494049f084b260eec2e61da78",
+                "title": "Electronic Computer Subassembly Supervisor"
+            },
+            {
+                "uuid": "7057b2fc7897771c49bb79c52233ad0d",
+                "title": "Electronics Processing Supervisor"
+            },
+            {
+                "uuid": "c75ac3898114b76c891b0283617e6175",
+                "title": "Electronics Production Supervisor"
+            },
+            {
+                "uuid": "e7df388697959961d62305a62ac509c4",
+                "title": "Electronics Supervisor"
+            },
+            {
+                "uuid": "ab3b98be752dd99c9ab55a8a2a821279",
+                "title": "Electrostatic Powder Coating Technician"
+            },
+            {
+                "uuid": "0984d3f0edc32351de53b028d08cb832",
+                "title": "Electrotyping and Stereotyping Supervisor"
+            },
+            {
+                "uuid": "963b2b0651d7583dce2b53a7e70bb2c3",
+                "title": "Embroidery Supervisor"
+            },
+            {
+                "uuid": "1b94bd651e38ea4d3c96395c16eadb35",
+                "title": "Endless Belt Weaving Department Floor Supervisor"
+            },
+            {
+                "uuid": "a299307c94906d1fda169f3baf55edaf",
+                "title": "Engine Assembly Supervisor"
+            },
+            {
+                "uuid": "b9b786eae762d5291aa5dd4a331e142a",
+                "title": "Engraving Supervisor"
+            },
+            {
+                "uuid": "04fdeb5a34d6c8c6d4d70b1d15544b8c",
+                "title": "Epoxy Fabrication Supervisor"
+            },
+            {
+                "uuid": "8cced8462be7d8bc793ffa6ba65c4a37",
+                "title": "Erection Shop Supervisor"
+            },
+            {
+                "uuid": "a8a8f007847839bd508988f15a42cbc3",
+                "title": "Esters and Emulsifiers Supervisor"
+            },
+            {
+                "uuid": "556863c6dd1071554c148b5dc915778e",
+                "title": "Evaporator Supervisor"
+            },
+            {
+                "uuid": "5d0b64710a1f264bfbe19b6ef5cbd364",
+                "title": "Explosive Operator Supervisor"
+            },
+            {
+                "uuid": "857f4376b5cec7a5b768fccbf0a2b81f",
+                "title": "Extruding Department Supervisor"
+            },
+            {
+                "uuid": "6fa96649a3159cc6c1ef1734285ffb1a",
+                "title": "Extrusion Supervisor"
+            },
+            {
+                "uuid": "7e5d9e90e4b9f73184aa082df612df63",
+                "title": "Fabric Coating Supervisor"
+            },
+            {
+                "uuid": "5cec4975b82d5a414f445a0155df5197",
+                "title": "Fabrication and Assembly Supervisor"
+            },
+            {
+                "uuid": "aeb354a513746efa28fe43b9b1c819dc",
+                "title": "Fabrication Department Supervisor"
+            },
+            {
+                "uuid": "48ba6ffd29e38bf9219ddfeb36527bb8",
+                "title": "Fabrication Supervisor"
+            },
+            {
+                "uuid": "494ce81dc89f6fdb429531c96a8e8f0d",
+                "title": "Facepiece Line Supervisor"
+            },
+            {
+                "uuid": "aaccd10de45843e4e76bb934869f98d5",
+                "title": "Factory Supervisor"
+            },
+            {
+                "uuid": "50afc5dfb65109fcc128a704c415fc8d",
+                "title": "Feed House Supervisor"
+            },
+            {
+                "uuid": "5e931d0a1f10520db297c86bd9db8ca3",
+                "title": "Feed Mill Supervisor"
+            },
+            {
+                "uuid": "915ee42b3b22658ec8b07036b12be34b",
+                "title": "Fence Manufacture Supervisor"
+            },
+            {
+                "uuid": "8b67624688efca1dfdde68e8c930f5b4",
+                "title": "Fence Supervisor"
+            },
+            {
+                "uuid": "1a4a7cf9bd8874a00937f60affa59349",
+                "title": "Fermenting Cellars Supervisor"
+            },
+            {
+                "uuid": "be329430887e9af8e49802ec06657a85",
+                "title": "Fertilizer Processing Supervisor"
+            },
+            {
+                "uuid": "f1dd6b23d8903bf8589cbe75bc43d517",
+                "title": "Fertilizer Supervisor"
+            },
+            {
+                "uuid": "b3fad94ca24607e981ecfc37d0605956",
+                "title": "Fiber-Locking Supervisor"
+            },
+            {
+                "uuid": "74424f387d946590685a28dbae2bc68b",
+                "title": "Fiberglass Boat Assembly Supervisor"
+            },
+            {
+                "uuid": "1261a7b67596c3f8d5dc4abe52462da9",
+                "title": "Fiberglass Pipe Covering Supervisor"
+            },
+            {
+                "uuid": "df3ae111babe4384d7743a2e4e228cb9",
+                "title": "Fiberline Supervisor"
+            },
+            {
+                "uuid": "a494cd9bc04ce82b61a26c0ff7f79c36",
+                "title": "Filing and Polishing Supervisor"
+            },
+            {
+                "uuid": "ec218ff52b20a1a4ed88b1bb019b98f4",
+                "title": "Filling and Packing Supervisor"
+            },
+            {
+                "uuid": "4c2736e079409768915f939e7690720e",
+                "title": "Film Processing Shift Supervisor"
+            },
+            {
+                "uuid": "23ad74f4727f751fa46d979b1991f0b6",
+                "title": "Film Processing Supervisor"
+            },
+            {
+                "uuid": "55443c7054a5b65775a94a523b79ccbf",
+                "title": "Filter Plant Supervisor"
+            },
+            {
+                "uuid": "06e359cee33b023c1c2a8bb92655f8bf",
+                "title": "Filtration Supervisor"
+            },
+            {
+                "uuid": "3acce75f6a06aef6b58aa87702c1bd57",
+                "title": "Final Assembly and Packing Supervisor"
+            },
+            {
+                "uuid": "077e8e09ba276a2fc92cd49b582f403b",
+                "title": "Finish Production Manager"
+            },
+            {
+                "uuid": "1d1542668bf9ba42e60bb0c8a66c9fb1",
+                "title": "Finishing and Shipping Supervisor"
+            },
+            {
+                "uuid": "bda117506413d71d47a7b9cb18c331eb",
+                "title": "Finishing Area Supervisor"
+            },
+            {
+                "uuid": "d80ff90febae12c65e9b31ab536b1a5f",
+                "title": "Finishing Department Supervisor"
+            },
+            {
+                "uuid": "d18091df637d0f64b310ec40678cc067",
+                "title": "Finishing Manager"
+            },
+            {
+                "uuid": "3c7e1bfaff071feb55ce06cff0428166",
+                "title": "Finishing Room Supervisor"
+            },
+            {
+                "uuid": "588162bbe7338ee9798f093b084b8b6d",
+                "title": "Finishing Supervisor"
+            },
+            {
+                "uuid": "d08a3ba68f4ceabc29b724d9deb38322",
+                "title": "Firearms Assembly Supervisor"
+            },
+            {
+                "uuid": "466454f0507d45c3db6f6437fd4e2a57",
+                "title": "Fireworks Assembly Supervisor"
+            },
+            {
+                "uuid": "c111c5ef0b15ea96aae9feb27a30b1a3",
+                "title": "First Line Supervisor"
+            },
+            {
+                "uuid": "5e1624453300a4a7eb64d6d727f3f872",
+                "title": "First-Line Production Supervisor"
+            },
+            {
+                "uuid": "e4a61560d91d674f98b12301e17ba42c",
+                "title": "Fish Bait Processing Supervisor"
+            },
+            {
+                "uuid": "bf23f6ef0ace364e2058873d4c587310",
+                "title": "Fish Processing Supervisor"
+            },
+            {
+                "uuid": "75519fd5badd20e882ed75d3f6872b3c",
+                "title": "Fitting Supervisor"
+            },
+            {
+                "uuid": "a6b1e402b971865335ca53b866fec239",
+                "title": "Flame Cutting Supervisor"
+            },
+            {
+                "uuid": "e836799204779f2845a17b8da1436f54",
+                "title": "Foam Cutting Supervisor"
+            },
+            {
+                "uuid": "fc4945befa2a275dc0ad0b958f9be62e",
+                "title": "Forge Shop Supervisor"
+            },
+            {
+                "uuid": "545562072f9bc607c0f642eab20b64cc",
+                "title": "Forming and Assembling Supervisor"
+            },
+            {
+                "uuid": "2faff3d19273af9068118c7e6a7765b1",
+                "title": "Forming Department Supervisor"
+            },
+            {
+                "uuid": "4e341bb1cff4d97e2810372cc5d2397c",
+                "title": "Foundry Superintendant"
+            },
+            {
+                "uuid": "e14271a3322a08d854158508f051a6c6",
+                "title": "Foundry Supervisor"
+            },
+            {
+                "uuid": "baca87b467a5fa326f191736e7f8db58",
+                "title": "Frame Sample and Pattern Supervisor"
+            },
+            {
+                "uuid": "38b7066efbd3dc85add4ce08efe28493",
+                "title": "Framing Mill Supervisor"
+            },
+            {
+                "uuid": "4896f9e329246df6961cc8b82662fcfb",
+                "title": "Fruit Grading Supervisor"
+            },
+            {
+                "uuid": "eb5814db92f2b7f04c93400d50572e09",
+                "title": "Fur Dressing Supervisor"
+            },
+            {
+                "uuid": "f0bf969f177b2e8709c21b11650fd84f",
+                "title": "Furnace Process Supervisor"
+            },
+            {
+                "uuid": "ffa9f917abf327ad74c4c12678ccb8a6",
+                "title": "Furniture Assembly Supervisor"
+            },
+            {
+                "uuid": "49d1b74d68a78cbcbd2fbe701021eec0",
+                "title": "Furrier Shop Supervisor"
+            },
+            {
+                "uuid": "732c707b1798c4655d8e6d65e8616c53",
+                "title": "Garment Manufacturing Supervisor"
+            },
+            {
+                "uuid": "7405bbf9b8956f2646718e5089b51d3d",
+                "title": "Garment Supervisor"
+            },
+            {
+                "uuid": "0e2d01ad0cfd20cd13eca94c3fcf5419",
+                "title": "Gasket Supervisor"
+            },
+            {
+                "uuid": "249e20e84e024d73f403c36135bf5104",
+                "title": "Gauger Chief"
+            },
+            {
+                "uuid": "52b5398c627233499bf210f91ba14ce7",
+                "title": "Gelatin Plant Supervisor"
+            },
+            {
+                "uuid": "ab00dc19df702f99798ce637fef917da",
+                "title": "General Handling Supervisor"
+            },
+            {
+                "uuid": "ba87da09d235b163c01b037769bfdffd",
+                "title": "Glass Cut-Off Supervisor"
+            },
+            {
+                "uuid": "99ba27a512c9144b15a167818e7fc798",
+                "title": "Glaze Supervisor"
+            },
+            {
+                "uuid": "b91eedd225377a7c47282c1ed2af378c",
+                "title": "Glazing Department Supervisor"
+            },
+            {
+                "uuid": "b84d17a77353a99e5126c44de0e52812",
+                "title": "Glue Specialty Supervisor"
+            },
+            {
+                "uuid": "497e9a34c967d62333b2421bc1d17943",
+                "title": "Glycerin Supervisor"
+            },
+            {
+                "uuid": "947456f69da5d623ff4cef3ed4ec4fa5",
+                "title": "Grain and Yeast Plants Supervisor"
+            },
+            {
+                "uuid": "c6d735e9971eed57b8a1cbb773a5ec77",
+                "title": "Grain Elevator Superintendent"
+            },
+            {
+                "uuid": "fb832c06f9d4dac167e4c836850ef3db",
+                "title": "Grease Refining Supervisor"
+            },
+            {
+                "uuid": "050ca1179068fda1bd4464680bd96388",
+                "title": "Green End Department Supervisor"
+            },
+            {
+                "uuid": "cd269c98440750f43ffe843b085e78b5",
+                "title": "Grinding and Spraying Supervisor"
+            },
+            {
+                "uuid": "ea3f257c138dc51adf74e7de9ecec18b",
+                "title": "Grinding Supervisor"
+            },
+            {
+                "uuid": "ce96a5212c314770b2df8961357d66c2",
+                "title": "Hairspring Fabrication Supervisor"
+            },
+            {
+                "uuid": "1549e139fb62f0a711d717b682acb73b",
+                "title": "Hand Cigar Making Supervisor"
+            },
+            {
+                "uuid": "43fc14de5335f690db3cd3ca5ef90f87",
+                "title": "Hand Silvering Supervisor"
+            },
+            {
+                "uuid": "fd8c6d80c462ac4f24915f989962a49a",
+                "title": "Hardboard Supervisor"
+            },
+            {
+                "uuid": "4b9d6c1b27b2cdde7e4be2f89b5c4e3e",
+                "title": "Head Cd Storage and Materials Make-Up Operator"
+            },
+            {
+                "uuid": "33866d3e1cb862f30452f8e99157e91a",
+                "title": "Head Grease Maker"
+            },
+            {
+                "uuid": "1ac62c1403da8d2de8df695087cc1a6e",
+                "title": "Head Knitting Machine Fixer"
+            },
+            {
+                "uuid": "12ebe48c1ca0ab2151dc97f73ff9e375",
+                "title": "Head Loft Worker"
+            },
+            {
+                "uuid": "1df88f89f958a2bd93424a05fa67a093",
+                "title": "Head Refrigerating Engineer"
+            },
+            {
+                "uuid": "3396185edbd51474d92ff19bf7a2885e",
+                "title": "Head Refrigeration Engineer"
+            },
+            {
+                "uuid": "49df87bdbebcf980964ef111154ac57e",
+                "title": "Head Sampler"
+            },
+            {
+                "uuid": "9709defa93d2cfb2b82ea10890c8b499",
+                "title": "Head Sugar Reprocess Operator"
+            },
+            {
+                "uuid": "04aa41b7c1a79fd4c457c2e48d289165",
+                "title": "Head Sulfide Operator"
+            },
+            {
+                "uuid": "feffad3cc715fc0a836ece3c616d3ed5",
+                "title": "Head Turbine Operator"
+            },
+            {
+                "uuid": "0d3f6662151a8ceb9be2489510d64272",
+                "title": "Head Wood Grinder"
+            },
+            {
+                "uuid": "4d1c1b7e56f15466a20e0f3efc086ef8",
+                "title": "Hearing-Aid Assembly Supervisor"
+            },
+            {
+                "uuid": "5f047151565e393f8973024fe026cb04",
+                "title": "Heat Treat Supervisor"
+            },
+            {
+                "uuid": "6b338ae8f50108628aa8e66e49667dbe",
+                "title": "Heating and Blending Supervisor"
+            },
+            {
+                "uuid": "9ddec1570cda25eaaf2591a1517f0ab3",
+                "title": "Heating Plant Superintendent"
+            },
+            {
+                "uuid": "51b39825068039f836733d76d86be497",
+                "title": "Hide House Supervisor"
+            },
+            {
+                "uuid": "bd4c3109937657898c2539a2880be428",
+                "title": "Hot Dip Plating Supervisor"
+            },
+            {
+                "uuid": "c7203ddf41923511dbd0ee02a7241288",
+                "title": "Hot Dip Tinning Supervisor"
+            },
+            {
+                "uuid": "1738c185dc4cca9f2aebf39544c6e961",
+                "title": "Hot Strip Mill Supervisor"
+            },
+            {
+                "uuid": "9d1f69651fe86fe0a125721535381ebb",
+                "title": "Hot Wound Spring Production Supervisor"
+            },
+            {
+                "uuid": "7030725a84ce75ea5277ec3c5cc0ba9f",
+                "title": "House Furnishings Supervisor"
+            },
+            {
+                "uuid": "0e178ddb44d49fc5a5af2f1e3c9bcc33",
+                "title": "Hydraulic Pressure Auto Frettage Machine Operator Supervisor"
+            },
+            {
+                "uuid": "47edeb710cda970998c39839ecfbccbf",
+                "title": "Hydrochloric Area Supervisor"
+            },
+            {
+                "uuid": "1c46ac166e6bec89ef58388364e45a19",
+                "title": "Ice House Supervisor"
+            },
+            {
+                "uuid": "ba9db6ebd093e2f1c04ecd49b2889339",
+                "title": "Incinerator Plant General Supervisor"
+            },
+            {
+                "uuid": "25975b4d1216aded513b16cfee927f2d",
+                "title": "Incinerator Plant Supervisor"
+            },
+            {
+                "uuid": "14aa07f0891865438d59f56900207c69",
+                "title": "Industrial Chemicals Supervisor"
+            },
+            {
+                "uuid": "9fd1dfa858553c2a5bd3bff90f39f7a5",
+                "title": "Insecticide Supervisor"
+            },
+            {
+                "uuid": "a52d4d3fe99ddf2978cc4d5e3bb617e9",
+                "title": "Inspecting Supervisor"
+            },
+            {
+                "uuid": "dc58fd08ad893cff48e71bb097b0b1f1",
+                "title": "Inspection and Testing Supervisor"
+            },
+            {
+                "uuid": "fe030c91f637c65161a6ad75710e587b",
+                "title": "Inspection Supervisor"
+            },
+            {
+                "uuid": "31dc84500fc62c69d4b8e73908346037",
+                "title": "Instant Potato Processing Supervisor"
+            },
+            {
+                "uuid": "5fc498cccef24cec2bdb3909d3989a43",
+                "title": "Instrument Assembly Supervisor"
+            },
+            {
+                "uuid": "da0dc38fe0bcdcc3739615e722e29f5a",
+                "title": "Instrument Maintenance Supervisor"
+            },
+            {
+                "uuid": "82d34a3941590c38e3e3d1e95c38d7c4",
+                "title": "Jewel Supervisor"
+            },
+            {
+                "uuid": "07bd82c500ea252abe45b80cc4ff12e6",
+                "title": "Job Boss"
+            },
+            {
+                "uuid": "fc3ad467260bc411769a5cba7f658830",
+                "title": "Jobmaster"
+            },
+            {
+                "uuid": "3c68eea41e6b823e306c21f65468602d",
+                "title": "Keymodule Assembly Supervisor"
+            },
+            {
+                "uuid": "462fcde5a65485546f36e601c673d1ff",
+                "title": "Knitting Supervisor"
+            },
+            {
+                "uuid": "c7e5baea6c7b78bcc4b2c04f18ce1a36",
+                "title": "Laboratory Chief"
+            },
+            {
+                "uuid": "b166fcfdfebd2027bc7296fefd2fb15e",
+                "title": "Lace Tearing Supervisor"
+            },
+            {
+                "uuid": "24516a896832796be9a8f19f2b447b1d",
+                "title": "Lamp Shades Supervisor"
+            },
+            {
+                "uuid": "636850a36b644a6abb97c84dd58caad5",
+                "title": "Last Model Department Supervisor"
+            },
+            {
+                "uuid": "da1e67622d2ceb73da01af482b2a6550",
+                "title": "Launderette, Laundromat, or Laundry Manager"
+            },
+            {
+                "uuid": "6ca8b7635628f70efeedf574c32d5ec2",
+                "title": "Laundromat Manager"
+            },
+            {
+                "uuid": "d1dbaa6cded90ab4a7f1909f203c5216",
+                "title": "Laundry Supervisor"
+            },
+            {
+                "uuid": "19bf377b052ed08ec353b714f80c6662",
+                "title": "Lead Burner Supervisor"
+            },
+            {
+                "uuid": "cbc7e1d82132dfc49ee8669c4b2f4187",
+                "title": "Lead Refinery Supervisor"
+            },
+            {
+                "uuid": "f7f23444a4ceaa86387555e99032f8e1",
+                "title": "Lead Section Supervisor"
+            },
+            {
+                "uuid": "5158a250e30f1fb4415d86ded2c8e0c5",
+                "title": "Leader"
+            },
+            {
+                "uuid": "de5ed90153503690d21bea75a19b587e",
+                "title": "Leather Products Supervisor"
+            },
+            {
+                "uuid": "84422263a521a2b4d12f1588c763d663",
+                "title": "Lime Supervisor"
+            },
+            {
+                "uuid": "e297db46e888cdf51c2c2ec67a6b25be",
+                "title": "Liquefaction and Regasification Supervisor"
+            },
+            {
+                "uuid": "fc7d8b1dedbc6282a26b01bcf3159167",
+                "title": "Liquefaction Supervisor"
+            },
+            {
+                "uuid": "cb62dc1b18e7368ea70515df22f4e83e",
+                "title": "Liquid Yeast Supervisor"
+            },
+            {
+                "uuid": "cd025e00c84c8f19eb43d2c0a84335fd",
+                "title": "Litharge Supervisor"
+            },
+            {
+                "uuid": "7cdfa108073dd9da2d1015e6588fb0c9",
+                "title": "Lubrication Supervisor"
+            },
+            {
+                "uuid": "56c43f9ced2d7ef1d6e78080634ee9e3",
+                "title": "Lump Room Supervisor"
+            },
+            {
+                "uuid": "3f90eb29407bda69637be518b28fa342",
+                "title": "Machine Adjuster Leader"
+            },
+            {
+                "uuid": "0f13a20d24991fbdfca03d8b7fb68a46",
+                "title": "Machine Assembler Supervisor"
+            },
+            {
+                "uuid": "1ebdd2e71fd6855662955e03eb92277e",
+                "title": "Machine Group Leader"
+            },
+            {
+                "uuid": "7b9cce72f1cf45e1b77b5e098975703f",
+                "title": "Machine Setter Supervisor"
+            },
+            {
+                "uuid": "46b995f604b9d0f02bb97b478efd8404",
+                "title": "Machine Shop Supervisor"
+            },
+            {
+                "uuid": "8227cc6ed27911ee193ea4d543376b5b",
+                "title": "Machining and Assembly Supervisor"
+            },
+            {
+                "uuid": "923ca2d76c046750bb7cdd1eb85fa3ce",
+                "title": "Machining Department Supervisor"
+            },
+            {
+                "uuid": "704e31e5390a7136c044918c5718ab40",
+                "title": "Machining Manager"
+            },
+            {
+                "uuid": "df4a7614fa4be00cde1df045c4f97a05",
+                "title": "Machining Supervisor"
+            },
+            {
+                "uuid": "201ab13cf2f402a78f07c9f8621b44e3",
+                "title": "Machinist Supervisor"
+            },
+            {
+                "uuid": "c0215dacf55e7f7a0626b7e7b231710c",
+                "title": "Mainspring Fabrication Supervisor"
+            },
+            {
+                "uuid": "83e8bd2e3ab5c340465e192c0b6e0cbe",
+                "title": "Major Appliance Assembly Supervisor"
+            },
+            {
+                "uuid": "b03a13b622bb467785f6edbbbba2983c",
+                "title": "Malt House Supervisor"
+            },
+            {
+                "uuid": "7740ace8ccda879984f4a335863b545e",
+                "title": "Malted Milk Supervisor"
+            },
+            {
+                "uuid": "30be52b0254fc6ae09990ad7e2ff3539",
+                "title": "Manufactured Buildings Supervisor"
+            },
+            {
+                "uuid": "ea561185ba851fa1da4c588ebb76c7be",
+                "title": "Manufacturing Group Leader"
+            },
+            {
+                "uuid": "c6acbebfd2f7404d2d5bccefef871912",
+                "title": "Manufacturing Supervisor"
+            },
+            {
+                "uuid": "23e0cf2f70cf8c467744ae15e7428d2c",
+                "title": "Maple Products Supervisor"
+            },
+            {
+                "uuid": "711d64b960eae5aba684e954047d0c11",
+                "title": "Materials Director"
+            },
+            {
+                "uuid": "14457747a297ee9cfcfd538fb1a2bad7",
+                "title": "Matrix Supervisor"
+            },
+            {
+                "uuid": "e20a907b05f23e60b7ac82dbd6f5aed5",
+                "title": "Mattress and Boxsprings Supervisor"
+            },
+            {
+                "uuid": "5f14300a3d9a76af10a190b1013b834f",
+                "title": "Mechanical Supervisor"
+            },
+            {
+                "uuid": "1f8f3ccc4ea593709ed3a498c80d1755",
+                "title": "Melt House Supervisor"
+            },
+            {
+                "uuid": "1e4998fd251a3699bc559f478acb5163",
+                "title": "Melt Superintendant"
+            },
+            {
+                "uuid": "db9728c735e0e0352aecb4c47bd19895",
+                "title": "Melter Supervisor"
+            },
+            {
+                "uuid": "7f233b414d65a13b438c23f146c4633c",
+                "title": "Melting Supervisor"
+            },
+            {
+                "uuid": "f722c719b8667c1fc719302b02bbc89f",
+                "title": "Merchant Mill Rolling and Finishing Supervisor"
+            },
+            {
+                "uuid": "229143c470a2198c5a2c059788355639",
+                "title": "Metal Cans Supervisor"
+            },
+            {
+                "uuid": "c4dd3d2c347d7af309605281629e72c4",
+                "title": "Metal Fabricating Supervisor"
+            },
+            {
+                "uuid": "e8a47605999867cd9c0d1bb67feea576",
+                "title": "Metal Fabrication Supervisor"
+            },
+            {
+                "uuid": "1429eeb40309c5ed9f75445fbefc6ec7",
+                "title": "Metal Furniture Assembly Supervisor"
+            },
+            {
+                "uuid": "634511d759f37c725eb70d5b4b08c87a",
+                "title": "Metal Hanging Supervisor"
+            },
+            {
+                "uuid": "86725193e0defe459f6750228376843b",
+                "title": "Metalizing Supervisor"
+            },
+            {
+                "uuid": "14e6bb621a549122e4e1a0704912d524",
+                "title": "Microfilm Duplicating Unit Supervisor"
+            },
+            {
+                "uuid": "a19e36713d8464cc10eefa9ccfcdbe6d",
+                "title": "Mill House Supervisor"
+            },
+            {
+                "uuid": "87d64605b1988b3cae29a8fac1fa400b",
+                "title": "Mill Labor Supervisor"
+            },
+            {
+                "uuid": "dcf82fae734b3e1b92922557b59c99ba",
+                "title": "Mill Platform Supervisor"
+            },
+            {
+                "uuid": "70752e7fb09bca6feaaae1f5f1b70bad",
+                "title": "Mill Supervisor"
+            },
+            {
+                "uuid": "86b3c7e2463ad0830e64262249fb5b96",
+                "title": "Miller Supervisor"
+            },
+            {
+                "uuid": "146ab2dc9828cb52f3462fefe8ac0ec3",
+                "title": "Milling Supervisor"
+            },
+            {
+                "uuid": "f7058a70c166164569bf8917031dcfbc",
+                "title": "Mirror Department Supervisor"
+            },
+            {
+                "uuid": "08cc705249455b3546a590680dd1e973",
+                "title": "Mirror Fabrication Supervisor"
+            },
+            {
+                "uuid": "8eac91db5fb0298cf40c38181c80975a",
+                "title": "Mirror Manufacturing Department Supervisor"
+            },
+            {
+                "uuid": "4a3b1bc171ffd35b9cca6fd572a00ce3",
+                "title": "Mixing Supervisor"
+            },
+            {
+                "uuid": "e18cdd71712a64ba105f935e973b1c12",
+                "title": "Model and Pattern Supervisor"
+            },
+            {
+                "uuid": "5a3eedc2a5b551aadb2a5796ccaa8f00",
+                "title": "Model Making Supervisor"
+            },
+            {
+                "uuid": "6f8b13c9b21d4f189b8483e5402a88d6",
+                "title": "Mold Cleaning and Storage Supervisor"
+            },
+            {
+                "uuid": "3054a2c3e8ceffbdd576990291fde995",
+                "title": "Mold Making Plastics Sheets Supervisor"
+            },
+            {
+                "uuid": "8e9b9fdbd3585c1e4da9de232901bb41",
+                "title": "Mold Making Supervisor"
+            },
+            {
+                "uuid": "96d6b6752f00d14235c348a3090b683f",
+                "title": "Mold Shop Supervisor"
+            },
+            {
+                "uuid": "aa6d3cd3eec6f6ef1cec247258b8e034",
+                "title": "Mold Yard Supervisor"
+            },
+            {
+                "uuid": "e0085d40ba52e3982bb3e50f418dbf0e",
+                "title": "Mold Yarn Supervisor"
+            },
+            {
+                "uuid": "07ed8c5020a11377c7dc1c955a4aa8c4",
+                "title": "Molding Supervisor"
+            },
+            {
+                "uuid": "288456a5ddcb678f2870d63d93d7c32b",
+                "title": "Motion Picture Equipment Supervisor"
+            },
+            {
+                "uuid": "89b486f94c24544d0de3c3ba00d9633e",
+                "title": "Motor Vehicle Assembly Supervisor"
+            },
+            {
+                "uuid": "8497e28bae02dfbd04f43f646eed0bb3",
+                "title": "Musical Instrument Supervisor"
+            },
+            {
+                "uuid": "6998c71240c55a6aded7c8a9e73157a4",
+                "title": "Natural Gas Field Processing Supervisor"
+            },
+            {
+                "uuid": "64399c607a43ece6027ba18fa3b7b91d",
+                "title": "Natural Gas Plant Supervisor"
+            },
+            {
+                "uuid": "90584466496e03f75c57e32223d3d2fb",
+                "title": "Needle Process Felt Goods Supervisor"
+            },
+            {
+                "uuid": "79a4e103718d136a62e4f8ff538f5cfc",
+                "title": "Net Making Supervisor"
+            },
+            {
+                "uuid": "00bbe82ebca8d8b95fc4b80c1acff41d",
+                "title": "Nitroglycerin Supervisor"
+            },
+            {
+                "uuid": "d417d610e57bb2509058181d03862417",
+                "title": "Nuclear Power Plant Operations Supervisor"
+            },
+            {
+                "uuid": "3abfbb8006d79f3d9d611103a2be9a6d",
+                "title": "Nut Processing Supervisor"
+            },
+            {
+                "uuid": "7c95fc7c5c039e0b6f8346ad91544276",
+                "title": "Nutritional Yeast Supervisor"
+            },
+            {
+                "uuid": "37c69675fdbcc883f8351948d508d9aa",
+                "title": "Offset Plate Preparation Supervisor"
+            },
+            {
+                "uuid": "47a682d98171330701b33532d83d6e11",
+                "title": "Open Hearth Stockyard Supervisor"
+            },
+            {
+                "uuid": "f318b2945ddeeb507266ea7e21927e2a",
+                "title": "Optical Instrument Assembly Supervisor"
+            },
+            {
+                "uuid": "99ab674b5e0d5f85bdec5506179e3a15",
+                "title": "Optical Instruments Supervisor"
+            },
+            {
+                "uuid": "7aa3aaa100b68feac9f9af39ad1650cf",
+                "title": "Ordnance Truck Installation Supervisor"
+            },
+            {
+                "uuid": "85aca26639d9206b3acadd150dc0d5f5",
+                "title": "Ovens Supervisor"
+            },
+            {
+                "uuid": "9702ff79824cbac80661f9888ac514ae",
+                "title": "Packaging Manager"
+            },
+            {
+                "uuid": "e8a980ed3aa0520bba457cba201fc1fc",
+                "title": "Packaging Supervisor"
+            },
+            {
+                "uuid": "2ac046957f919df576a154f0f03b437d",
+                "title": "Packing and Wrapping Supervisor"
+            },
+            {
+                "uuid": "0182e9c55614d234d38991a0e62ba567",
+                "title": "Packing House Supervisor"
+            },
+            {
+                "uuid": "d5c668810fd85b3a1188381556d0c63e",
+                "title": "Packing Room Supervisor"
+            },
+            {
+                "uuid": "3b33df5c5dde75562c5bd237b3952342",
+                "title": "Packing Supervisor"
+            },
+            {
+                "uuid": "d86e72ca46f442732f656c75c97a63cf",
+                "title": "Paint Department Supervisor"
+            },
+            {
+                "uuid": "d0a5812155785d2f0e6134c33d73c91a",
+                "title": "Paint Line Production Supervisor"
+            },
+            {
+                "uuid": "7fdb6122c3fa18c2373cae66c5d6177c",
+                "title": "Paint Roller Covers Supervisor"
+            },
+            {
+                "uuid": "d8110b49fc9e2f20ed1cd9f18aed3763",
+                "title": "Paint Supervisor"
+            },
+            {
+                "uuid": "d4f4cf524e072c392b14a107ce6afa3d",
+                "title": "Painting Department Supervisor"
+            },
+            {
+                "uuid": "919386e3b0e261527143a571349576f3",
+                "title": "Paper Coating Supervisor"
+            },
+            {
+                "uuid": "f6993f6f996456dbd8fd8b99d573ec4a",
+                "title": "Paper Machine Supervisor"
+            },
+            {
+                "uuid": "4a50a943600aa431aae33e780579f73e",
+                "title": "Paper Mill Superintendent"
+            },
+            {
+                "uuid": "0cba90e103f2b379d58dbf077fef07f2",
+                "title": "Paper Mill Supervisor"
+            },
+            {
+                "uuid": "3d2979bed2314cc8e10a68f1d29731f4",
+                "title": "Paper Products Supervisor"
+            },
+            {
+                "uuid": "e2307ea67a9ed4fb1ace35f1c3bc387f",
+                "title": "Paper Testing Supervisor"
+            },
+            {
+                "uuid": "bba451eb467a4b9234c79d9c6b7b09c5",
+                "title": "Parachute Manufacturing Supervisor"
+            },
+            {
+                "uuid": "5a2f985227adf647596cf115e893303f",
+                "title": "Parachute Supervisor"
+            },
+            {
+                "uuid": "01cdae3c4a897d9cb23859c10848ab0e",
+                "title": "Particle Board Supervisor"
+            },
+            {
+                "uuid": "02ae157d70b345c5e2596f9d6c05b881",
+                "title": "Paste Mixing Supervisor"
+            },
+            {
+                "uuid": "97b4fb19161e9202be9ab5f064f2bfbd",
+                "title": "Paste Plant Supervisor"
+            },
+            {
+                "uuid": "65e18ef203e1b27983e1a3ff4b8a9c9d",
+                "title": "Paster Supervisor"
+            },
+            {
+                "uuid": "da43c2909a1e6b03fac02e79d3a674b2",
+                "title": "Pattern Chain Maker Supervisor"
+            },
+            {
+                "uuid": "2c54cf8f4614c20e9e8e33d309884740",
+                "title": "Pattern Grader Supervisor"
+            },
+            {
+                "uuid": "7fc028e2415064f195e30423bbb52bf1",
+                "title": "Pattern Marking Supervisor"
+            },
+            {
+                "uuid": "b078c093a4abcc5b8b3f8167615c3b22",
+                "title": "Pattern Shop Supervisor"
+            },
+            {
+                "uuid": "4725df33118f6e4b9a0302b9ff1edf49",
+                "title": "Permanent Mold Supervisor"
+            },
+            {
+                "uuid": "cc24a675625015c563836b8530225207",
+                "title": "Pharmaceutical Compounding Supervisor"
+            },
+            {
+                "uuid": "11fd15fdb236647b3b52f15459cebc03",
+                "title": "Phosphatic Fertilizer Supervisor"
+            },
+            {
+                "uuid": "02bc215bc7dadda554ae027c1eac0550",
+                "title": "Phosphoric Acid Supervisor"
+            },
+            {
+                "uuid": "9078c3451f23c5291978dc625de499e4",
+                "title": "Phosphorus Processing Supervisor"
+            },
+            {
+                "uuid": "38a0323fcffffebdbfb8dc06b993d9e9",
+                "title": "Photoengraving Supervisor"
+            },
+            {
+                "uuid": "cc15f521078c86068ff231a72f2d1e79",
+                "title": "Photographic Supervisor"
+            },
+            {
+                "uuid": "58f3c5bdebc5a2c83060ea816b2836d4",
+                "title": "Picking Supervisor"
+            },
+            {
+                "uuid": "225663476533847bb8027bb20448e2ee",
+                "title": "Pig Machine Supervisor"
+            },
+            {
+                "uuid": "894d4c90ae309c68dd6ff296863c2755",
+                "title": "Pigment Making Supervisor"
+            },
+            {
+                "uuid": "193f53fa3b5a7b537cb848ee2ca69221",
+                "title": "Pilot Plant Supervisor"
+            },
+            {
+                "uuid": "3247ca62135e542b6da42c68b9acffc2",
+                "title": "Pipe and Boiler Covers Supervisor"
+            },
+            {
+                "uuid": "851a639f1c7c095974bfc0a1219b1006",
+                "title": "Pipe Finishing Supervisor"
+            },
+            {
+                "uuid": "79a2157e830aedbed75837cc5bdba3d9",
+                "title": "Pipe Joints Supervisor"
+            },
+            {
+                "uuid": "60b5fcefa245d9881ace899d65f5e589",
+                "title": "Pipe Line Maintenance Supervisor"
+            },
+            {
+                "uuid": "14c0e555e96f7cfef008c4798da00017",
+                "title": "Pipe Manufacture Supervisor"
+            },
+            {
+                "uuid": "907da9333fd0fba5380558247b77ee4f",
+                "title": "Pipe Supervisor"
+            },
+            {
+                "uuid": "c3701faa6f1fec5718de478879cb78be",
+                "title": "Pit and Auxiliaries Supervisor"
+            },
+            {
+                "uuid": "9712551ec2677e92b4620ce1091e93d1",
+                "title": "Plastic Sheets Finishing Supervisor"
+            },
+            {
+                "uuid": "7f9e54ebd56c3a00d215c52519ff4e00",
+                "title": "Plastic Sheets Supervisor"
+            },
+            {
+                "uuid": "24ed1e2cb51148ccdcdbd84f01c7ee16",
+                "title": "Plastics Fabrication Supervisor"
+            },
+            {
+                "uuid": "5f630c67b2d1fcc7c163e5ed2691a470",
+                "title": "Plastics Supervisor"
+            },
+            {
+                "uuid": "eab90b0ba3a5f784046a28cdd6da5cb2",
+                "title": "Plate Heating, Rolling, and Finishing Supervisor"
+            },
+            {
+                "uuid": "0e68062d62e84854f4fbe34524247989",
+                "title": "Platform Mill Supervisor"
+            },
+            {
+                "uuid": "1dd526d0c858f018764a76fe24ddbd86",
+                "title": "Plating and Point Assembly Supervisor"
+            },
+            {
+                "uuid": "3d2db31360d20e044a58edeaac77bfe1",
+                "title": "Plating Foreman"
+            },
+            {
+                "uuid": "3338f00628ee724c0141efb91875add3",
+                "title": "Pleating Supervisor"
+            },
+            {
+                "uuid": "95b5bdda36c0a2fa1a48e588a956b506",
+                "title": "Poleyard Supervisor"
+            },
+            {
+                "uuid": "a546b79bfa5baf0731eb0cab11b5f6f1",
+                "title": "Pond Supervisor"
+            },
+            {
+                "uuid": "065b546e17e3995f9d964906de780df1",
+                "title": "Porcelain Enameling Supervisor"
+            },
+            {
+                "uuid": "6ec43b9f8b487853ed4d99cf40494470",
+                "title": "Pot Lining Supervisor"
+            },
+            {
+                "uuid": "538cd0f92c4e3f446757b5b42cdd9648",
+                "title": "Pot Room Supervisor"
+            },
+            {
+                "uuid": "ea315d6e5fd76d0e2270b4a1d79373e2",
+                "title": "Potato Chip Processing Supervisor"
+            },
+            {
+                "uuid": "9d73cea6ddc8359389412160c1e6ece4",
+                "title": "Poultry Processing Supervisor"
+            },
+            {
+                "uuid": "8829d7e717715123f3ed104b506696d6",
+                "title": "Powder and Primer Canning Leader"
+            },
+            {
+                "uuid": "3a34f6bdbe8fef42f4b5936aac5dc894",
+                "title": "Powdered Metal Supervisor"
+            },
+            {
+                "uuid": "ed7461c8f0e2ab0caf1822e7e86ee755",
+                "title": "Powdered Sugar Supervisor"
+            },
+            {
+                "uuid": "fc20dcb90398c734c5ea099b1a008e33",
+                "title": "Power Plant Operators Supervisor"
+            },
+            {
+                "uuid": "cf587a254c291452720b70036a9488cc",
+                "title": "Power Reactor Supervisor"
+            },
+            {
+                "uuid": "29e054f68ce266c74cc44b057ed1b7f9",
+                "title": "Precast and Prestressed Concrete Supervisor"
+            },
+            {
+                "uuid": "d4836cfe2a381ad8bb5a661516a7c838",
+                "title": "Precipitator Supervisor"
+            },
+            {
+                "uuid": "948778dc0f4e87379d79822734ad346c",
+                "title": "Preparation Department Supervisor"
+            },
+            {
+                "uuid": "a1518d1b3e34b9d506d2139ece28057d",
+                "title": "Preparation Plant Supervisor"
+            },
+            {
+                "uuid": "47139a88c2919e31bfa959bbb6f5ced9",
+                "title": "Preparation Supervisor"
+            },
+            {
+                "uuid": "4bdeb2f20b43ff76d7290081fe898f6e",
+                "title": "Press Department Manager"
+            },
+            {
+                "uuid": "349ea0ee38daa39780b03a10adc73b41",
+                "title": "Press Hand Supervisor"
+            },
+            {
+                "uuid": "613862ae75382e84711d0f9d3e316082",
+                "title": "Press Room Supervisor"
+            },
+            {
+                "uuid": "7e07ac79f7be048bec23ec7fed950554",
+                "title": "Press Shop Supervisor"
+            },
+            {
+                "uuid": "1280a3738dfe46853619de9056941b62",
+                "title": "Pressing Department Supervisor"
+            },
+            {
+                "uuid": "b03fed1f3176033b6a99405bcc0b89fb",
+                "title": "Pressroom Supervisor"
+            },
+            {
+                "uuid": "2e4dae42a6eb2db56f50244a3201a627",
+                "title": "Pressure Supervisor"
+            },
+            {
+                "uuid": "9d38a00e31478c5864f1bf3a18ababdc",
+                "title": "Primer Supervisor"
+            },
+            {
+                "uuid": "0afa98fb6e1b7c0172c5dec573d27f82",
+                "title": "Print Line Supervisor"
+            },
+            {
+                "uuid": "58db17ea7a75b501913199822796183a",
+                "title": "Printed Circuit Board Assembly Supervisor"
+            },
+            {
+                "uuid": "e8a7bb8f6aba59ba33960dd97f859962",
+                "title": "Printed Circuit Board Testing Supervisor"
+            },
+            {
+                "uuid": "b14d41ace6f72dd10273585e04a3d468",
+                "title": "Printing and Stamping Supervisor"
+            },
+            {
+                "uuid": "e766188e46e85e4e7aac3f8102e7ca59",
+                "title": "Printing Shop Supervisor"
+            },
+            {
+                "uuid": "1bf16d7fc15c754a505fbb0ce4eae8c9",
+                "title": "Printing Supervisor"
+            },
+            {
+                "uuid": "99da5e13593b20fccd0a3cce17360770",
+                "title": "Printing Worker Supervisor"
+            },
+            {
+                "uuid": "1340f680389ebe4aafa69dad1d15f593",
+                "title": "Process Area Supervisor"
+            },
+            {
+                "uuid": "71e3ce362a53228fbfc52f411ae16959",
+                "title": "Process Coordinator"
+            },
+            {
+                "uuid": "2797e1fc64805c8071120d31a83c8cfe",
+                "title": "Processing Supervisor"
+            },
+            {
+                "uuid": "a323c662257475a9139cf89f7400a7ba",
+                "title": "Processing Talc and Borate Supervisor"
+            },
+            {
+                "uuid": "f393b7eb7cea6e5bb2c65274f2c715f1",
+                "title": "Product Inspection Supervisor"
+            },
+            {
+                "uuid": "a4e86e4f5778b7af6382cf8683286208",
+                "title": "Production Department Supervisor"
+            },
+            {
+                "uuid": "53f3fcf30d4b5ccd838869a71304a02e",
+                "title": "Production Machine Shop Supervisor"
+            },
+            {
+                "uuid": "1fa8b117abb4f7494d81683469bb21c4",
+                "title": "Production Reproduction Manager"
+            },
+            {
+                "uuid": "d340d58ac1bc2705168f2dbb0ab0ff7d",
+                "title": "Production Team Leader"
+            },
+            {
+                "uuid": "881010b86125c188391a7625f438f137",
+                "title": "Production Welding Supervisor"
+            },
+            {
+                "uuid": "46783a68fc6b55329d1626ba18d26b30",
+                "title": "Prop Making Supervisor"
+            },
+            {
+                "uuid": "2b990fc1b53c6767d8c956e2e686e62a",
+                "title": "Properties Supervisor"
+            },
+            {
+                "uuid": "c6f5c3548b99dbb32a578ed96fbc1973",
+                "title": "Publications Production Supervisor"
+            },
+            {
+                "uuid": "c786f1a27e07fb018c79fae60f3de244",
+                "title": "Pulp House Supervisor"
+            },
+            {
+                "uuid": "56e7bd38dd283aad1183477f23e2f8bd",
+                "title": "Pulp Plant Supervisor"
+            },
+            {
+                "uuid": "3c4d9552cf1af727abef8bb14fae9843",
+                "title": "Pumping Station Supervisor"
+            },
+            {
+                "uuid": "fefecc0e9cbab25e4eef0144f6bc1087",
+                "title": "Punch and Assembly Department Supervisor"
+            },
+            {
+                "uuid": "7de6bb833d1496bb58d7f554d3e28163",
+                "title": "Purification Supervisor"
+            },
+            {
+                "uuid": "cb65e7b9ff27bffcb6f07834e6a3f46b",
+                "title": "Putty and Caulking Supervisor"
+            },
+            {
+                "uuid": "c64bff741ff8c4fedaa375f449c31ee0",
+                "title": "Puttying and Calking Supervisor"
+            },
+            {
+                "uuid": "f03ed73bc377c348f8be0ca32afe440a",
+                "title": "Quality Control Supervisor (QC Supervisor)"
+            },
+            {
+                "uuid": "8118709a54d700e5b0f5bd4747c71010",
+                "title": "Quarter Supervisor"
+            },
+            {
+                "uuid": "7380114e4cac076c1984b1b6132a7ef2",
+                "title": "Quarterman"
+            },
+            {
+                "uuid": "d8761a838490be737a66808a905481d4",
+                "title": "Quilting Supervisor"
+            },
+            {
+                "uuid": "9732cd2ba455fb375262869466d03fb0",
+                "title": "Rag Room Supervisor"
+            },
+            {
+                "uuid": "14c4ce372f51a54e9d39d45d43129db5",
+                "title": "Ready-Mixed Food Preparations Supervisor"
+            },
+            {
+                "uuid": "6f0a854239c764f94b6b82bafd225c60",
+                "title": "Receiving and Processing Supervisor"
+            },
+            {
+                "uuid": "ecdff030f1961abd42811aea8ffa2853",
+                "title": "Record Press Supervisor"
+            },
+            {
+                "uuid": "6fbcf7fbc1a4b1c2b5abb5754feb1794",
+                "title": "Reduction Plant Supervisor"
+            },
+            {
+                "uuid": "13c68842dc3ab59cb7e0e84f983869b5",
+                "title": "Refining Supervisor"
+            },
+            {
+                "uuid": "22e4348182d54020818ec3ad1178d6c4",
+                "title": "Refractory Products Supervisor"
+            },
+            {
+                "uuid": "5fdcfedcd0829ef466b3abc17c47e97f",
+                "title": "Relay Shop Supervisor"
+            },
+            {
+                "uuid": "0257d5ebc7e6735d19fc93f1eb86156a",
+                "title": "Remelt Furnace Expediter"
+            },
+            {
+                "uuid": "c007e62fe89a7c1e2abaaef39e099817",
+                "title": "Reproduction Production Manager"
+            },
+            {
+                "uuid": "cc1848f06945b5619aa5304c98cf7406",
+                "title": "Repulping Supervisor"
+            },
+            {
+                "uuid": "4a7c70734e7b29d25db730a3fdfb49e2",
+                "title": "Reverberatory Furnace Supervisor"
+            },
+            {
+                "uuid": "b04c38a18af572d99fd9a3002aeba2f9",
+                "title": "Rice Milling Supervisor"
+            },
+            {
+                "uuid": "f43e82ec6282987fba5d2f5ceb115333",
+                "title": "Ride Assembly Supervisor"
+            },
+            {
+                "uuid": "8e18bd221425f3070eec66de32ac1711",
+                "title": "Rocket Propellant Plant Supervisor"
+            },
+            {
+                "uuid": "e8b4198a159a64c7271110dc50f37d30",
+                "title": "Roll Shop Supervisor"
+            },
+            {
+                "uuid": "1c0108ee6d5a1a363ff483304c892f78",
+                "title": "Roller Printing Supervisor"
+            },
+            {
+                "uuid": "f21186e6e08da242dfd0862eb409e325",
+                "title": "Roller Shop Supervisor"
+            },
+            {
+                "uuid": "63a1ee959e9893b0b5700ba4c985eaf9",
+                "title": "Roofing Plant Supervisor"
+            },
+            {
+                "uuid": "c37d8a3236992547a4ac2bc56ef94f83",
+                "title": "Roving Department Supervisor"
+            },
+            {
+                "uuid": "333aa9e2016025eb1cfb289287258b9f",
+                "title": "Rubber Goods Supervisor"
+            },
+            {
+                "uuid": "657b5fa363e4508c9b06ffb11742192c",
+                "title": "Rubber Stamps and Dies Supervisor"
+            },
+            {
+                "uuid": "a52ad198521334d0bba89fd5f897d0d0",
+                "title": "Rubber Tire and Tubes Supervisor"
+            },
+            {
+                "uuid": "9bf4e46bfc1d5af6e43f66e204897aec",
+                "title": "Rug Cleaning Supervisor"
+            },
+            {
+                "uuid": "c3487f269e3da0e71370ac59470e9cba",
+                "title": "Sample Preparation Supervisor"
+            },
+            {
+                "uuid": "3b3e7daf766d86d2e0a3e9d8fd7d25f5",
+                "title": "Sample Room Supervisor"
+            },
+            {
+                "uuid": "522459c5a0f24a1c349754afd2703791",
+                "title": "Sample Supervisor"
+            },
+            {
+                "uuid": "0d1eab5dc9303608d33842832648d588",
+                "title": "Sandblaster Supervisor"
+            },
+            {
+                "uuid": "cb261f701ce8bbe17373ffde4d67d79d",
+                "title": "Sandblasting Supervisor"
+            },
+            {
+                "uuid": "1944212f63aa9e3dbc1bcc294c38d21e",
+                "title": "Sanding Supervisor"
+            },
+            {
+                "uuid": "53aa2b93d74eda81e73ff2666f92a52d",
+                "title": "Sanitation Supervisor"
+            },
+            {
+                "uuid": "fb02bd49d405acd68c27b93193f9ce85",
+                "title": "Sawing and Assembly Supervisor"
+            },
+            {
+                "uuid": "6b3ddfadb010ddd8ea1c2d07ae3cd22f",
+                "title": "Sawmill Supervisor"
+            },
+            {
+                "uuid": "47fc2654c5b29191473ed818e0dddcca",
+                "title": "Scouring Pads Supervisor"
+            },
+            {
+                "uuid": "c3ae2abf66567677c7c6f4add0b54569",
+                "title": "Screen Making Supervisor"
+            },
+            {
+                "uuid": "bfe6e191aeefc0e1b0482eb1fe8a9cda",
+                "title": "Screen Printing Supervisor"
+            },
+            {
+                "uuid": "9d61f1735120016df27f73bbd52a2934",
+                "title": "Screw Supervisor"
+            },
+            {
+                "uuid": "d8ba3e0d992182caba6a0a9737e3dddd",
+                "title": "Seed Mill Superintendent"
+            },
+            {
+                "uuid": "d36288217aba785c84813c702e711450",
+                "title": "Sewing Department Supervisor"
+            },
+            {
+                "uuid": "2e3e75c9daa53e339a38f8a7455b0bdb",
+                "title": "Sewing Room Supervisor"
+            },
+            {
+                "uuid": "8e69d55060f6d02080121d0dc4a549c1",
+                "title": "Sewing Supervisor"
+            },
+            {
+                "uuid": "7f912bf65b1e7ece1c1b32407100e1ef",
+                "title": "Shearing Supervisor"
+            },
+            {
+                "uuid": "260b0249d66f01e1aca48147bdfc8193",
+                "title": "Sheet Manufacturing Supervisor"
+            },
+            {
+                "uuid": "68b7a2d33a68e3e41840528bd6fb2bc3",
+                "title": "Sheet Metal Worker Supervisor"
+            },
+            {
+                "uuid": "8a85735757c80ff01a67d293265c0fe5",
+                "title": "Sheet Mill Supervisor"
+            },
+            {
+                "uuid": "0bca6ecac9f44d7fee93c64df54574c3",
+                "title": "Shell Shop Supervisor"
+            },
+            {
+                "uuid": "a35aefa630a98b689c2c9e5a455dc16f",
+                "title": "Shift Engineer"
+            },
+            {
+                "uuid": "f2a0bb26f4e9a02dda8011b8a26ae011",
+                "title": "Shift Production Supervisor"
+            },
+            {
+                "uuid": "c6a0a468038eaffc0540e3e1b2921a24",
+                "title": "Shipfitters Supervisor"
+            },
+            {
+                "uuid": "f19e7522f1642c1c68f72da8be1bb9bb",
+                "title": "Shipping Receiving and Packaging Supervisor"
+            },
+            {
+                "uuid": "ac47793cef4e5a013a806ed94a8cad95",
+                "title": "Shipping Track Supervisor"
+            },
+            {
+                "uuid": "12a1929081d29b7d4f01f5ad0c10bba7",
+                "title": "Shipping/Receiving Manager"
+            },
+            {
+                "uuid": "ab8655a72477c4380d3cfaeab61d620c",
+                "title": "Shipyard Supervisor"
+            },
+            {
+                "uuid": "350f5b6c321d0edb8ef2804ed096de53",
+                "title": "Shoe Repair Supervisor"
+            },
+            {
+                "uuid": "bd45c2d74c41fc6c643c69035aacc53b",
+                "title": "Shrink Pit Supervisor"
+            },
+            {
+                "uuid": "368edbb99264e168a004e9de87287729",
+                "title": "Shuttle Fitting Supervisor"
+            },
+            {
+                "uuid": "a0e320b6e3be51a714b84e2f4eaf0f18",
+                "title": "Shuttle Preparation Supervisor"
+            },
+            {
+                "uuid": "edf9e555093f5e0c80afe06af51127a3",
+                "title": "Shuttle Veneering Supervisor"
+            },
+            {
+                "uuid": "5a5874d7c0888af9be375d510bf0bf89",
+                "title": "Sign Shop Supervisor"
+            },
+            {
+                "uuid": "139d566a28dbd9d46060fbcc6894b878",
+                "title": "Silk Screen Cutting and Printing Supervisor"
+            },
+            {
+                "uuid": "8e691c72df1c264c66934007dc6a10fa",
+                "title": "Silvering Department Supervisor"
+            },
+            {
+                "uuid": "c85184034440f9e62223db92c8bac8d9",
+                "title": "Silverware Supervisor"
+            },
+            {
+                "uuid": "7dd543aadedfa665227c60a3183bcc6b",
+                "title": "Sintering Plant Supervisor"
+            },
+            {
+                "uuid": "360f052c898729e53f0a9129c69465b1",
+                "title": "Ski Production Supervisor"
+            },
+            {
+                "uuid": "ff5da900bc1c5d15141829f71c116c5e",
+                "title": "Slab Conditioner Supervisor"
+            },
+            {
+                "uuid": "22f8660c9ecb1237880f52fbe3fcf19e",
+                "title": "Slate Splitting Supervisor"
+            },
+            {
+                "uuid": "ac808f616171a32d3b791790c78acacd",
+                "title": "Slitting and Shipping Supervisor"
+            },
+            {
+                "uuid": "ff7c483504bc90e32327a93e3e8b9379",
+                "title": "Small Appliance Assembly Supervisor"
+            },
+            {
+                "uuid": "cccc5c82730532d238a4f6fcde33001f",
+                "title": "Snow Removal Supervisor"
+            },
+            {
+                "uuid": "f63a7e06e90f944d3bfd113c4e919b73",
+                "title": "Soakers Supervisor"
+            },
+            {
+                "uuid": "bbf0963acc8ac1e905855865ae84abbe",
+                "title": "Soaking Pits Supervisor"
+            },
+            {
+                "uuid": "55024ebf4ccf6859c20a7ced18c5697b",
+                "title": "Soaping Department Supervisor"
+            },
+            {
+                "uuid": "bfd190d0f685073efa0f224aefb67c31",
+                "title": "Soft Sugar Supervisor"
+            },
+            {
+                "uuid": "4c04e318b12af2aa9e6097f4823c4522",
+                "title": "Solder Making Supervisor"
+            },
+            {
+                "uuid": "5bb9f140fe56a3407f1ebec11c1fb6c3",
+                "title": "Solid Waste Facility Supervisor"
+            },
+            {
+                "uuid": "8a0579ce3dd1edb7b0e33068dcb436be",
+                "title": "Sorting Supervisor"
+            },
+            {
+                "uuid": "a56886d69eeea86047d41527ae57a4b6",
+                "title": "Special Assemblies Supervisor"
+            },
+            {
+                "uuid": "804572ed960c3adcec11a2e87dab1bed",
+                "title": "Specialty Department Supervisor"
+            },
+            {
+                "uuid": "fd75ae59b5ecd889836b47e4721ab631",
+                "title": "Specialty Food Products Supervisor"
+            },
+            {
+                "uuid": "2ba258ba632c38ea973489feb799a5f0",
+                "title": "Specialty Manufacturing Supervisor"
+            },
+            {
+                "uuid": "b24383df1e2f9cd0343c0666d6e7a19f",
+                "title": "Specialty Plant Supervisor"
+            },
+            {
+                "uuid": "8b392f41f16cde4283ca3c4e363854a9",
+                "title": "Spikemaking Supervisor"
+            },
+            {
+                "uuid": "97de2a1dd3c9632ecb78c4b438b84dfb",
+                "title": "Spinning and Winding Supervisor"
+            },
+            {
+                "uuid": "81d7a642b8f8a1824eccbbd18ee79d99",
+                "title": "Spinning Supervisor"
+            },
+            {
+                "uuid": "c4daaa4c0c398d598eb4242f781a34d3",
+                "title": "Split and Drum Room Supervisor"
+            },
+            {
+                "uuid": "208115800b722911032bd06971f2e1a7",
+                "title": "Split Leather Department Supervisor"
+            },
+            {
+                "uuid": "b560910f837a8effdb85f2db989fa0dc",
+                "title": "Sports Equipment Supervisor"
+            },
+            {
+                "uuid": "cbcde60efb52813c186df849aaee2ce9",
+                "title": "Spring Production Supervisor"
+            },
+            {
+                "uuid": "d945145e02995c83eddd12866e00b2e4",
+                "title": "Spring Up Supervisor"
+            },
+            {
+                "uuid": "bcb87a1efc89d2021fd9338f7fb2dcab",
+                "title": "Station Chief"
+            },
+            {
+                "uuid": "8c18b9331d443aad5acca355b0dc4a15",
+                "title": "Stationary Engineer Supervisor"
+            },
+            {
+                "uuid": "33ce303352f4f3ff1309ce5be74656b9",
+                "title": "Stave Cutting Supervisor"
+            },
+            {
+                "uuid": "6bd3d73ad6bbd1e5144724c9bef0214f",
+                "title": "Steel Division Supervisor"
+            },
+            {
+                "uuid": "2647495e18f83638804d7d5fa9f202cf",
+                "title": "Steffen House Supervisor"
+            },
+            {
+                "uuid": "6d05b6eeeb5c0fec8f175794858f98dc",
+                "title": "Stitching Department Supervisor"
+            },
+            {
+                "uuid": "85dd89c44b02f48995d295eeff8dac1e",
+                "title": "Stocking and Box Shop Supervisor"
+            },
+            {
+                "uuid": "083f362c9c4b3b5098ccb620cf0d00a5",
+                "title": "Stonework Supervisor"
+            },
+            {
+                "uuid": "aa95ff1522b2a575829505bc861ddea3",
+                "title": "Structural Mill Supervisor"
+            },
+            {
+                "uuid": "938196bc6b458050c67204fa9eaa4f75",
+                "title": "Structural Rolling and Finishing Supervisor"
+            },
+            {
+                "uuid": "99b3dcf6b4459e7b7f2be30820acfa47",
+                "title": "Suction Dredge Pipeline Placing Supervisor"
+            },
+            {
+                "uuid": "fb46a273d1908b7114d4a6674b9b52f7",
+                "title": "Sugar House Supervisor"
+            },
+            {
+                "uuid": "b15467964ef0ef6fd9b42316fad70f44",
+                "title": "Sugar Refinery Supervisor"
+            },
+            {
+                "uuid": "2b9fc826bcaeeca728d92456ab417ef3",
+                "title": "Sulfuric Acid Plant Supervisor"
+            },
+            {
+                "uuid": "36cbfe1bba789dd6d4fe152ce482f12c",
+                "title": "Supervising Floorperson"
+            },
+            {
+                "uuid": "ddb5e5c71c5e34d9ba724c7771028dbe",
+                "title": "Supervisor Cabinetmaker"
+            },
+            {
+                "uuid": "a3aaf802d916fecb886fcc6702d4438d",
+                "title": "Supervisor Dyer"
+            },
+            {
+                "uuid": "728098e0d7af46ca78d1589faeff4a8d",
+                "title": "Supervisory Wastewater Treatment Plant Operator"
+            },
+            {
+                "uuid": "dcdea9ccb1d9517230c0ac666988a096",
+                "title": "Surgical Garment Assembly Supervisor"
+            },
+            {
+                "uuid": "4941b3bb7f1f2cd1f92e0c45d7e30c60",
+                "title": "Syrup Shed Supervisor"
+            },
+            {
+                "uuid": "8668f493ae92f7b6b68b0329cc597fcb",
+                "title": "Tan Room Supervisor"
+            },
+            {
+                "uuid": "8daefd87dba128ee97cfb4e097c2e079",
+                "title": "Tank House Supervisor"
+            },
+            {
+                "uuid": "4e066028c4c1c01b9ccc09b14c19224f",
+                "title": "Tank Storage Supervisor"
+            },
+            {
+                "uuid": "506543dce8b061b0ffe67a6226ee2242",
+                "title": "Tapper Supervisor"
+            },
+            {
+                "uuid": "75d1c7e744232517cb63cf74b4e77da8",
+                "title": "Tar Distillation Supervisor"
+            },
+            {
+                "uuid": "d0352e75dcf1939a769e495336749529",
+                "title": "Tea and Spice Supervisor"
+            },
+            {
+                "uuid": "16c2260f590b213c29d49bbcb501a69a",
+                "title": "Testing and Analysis Department Supervisor"
+            },
+            {
+                "uuid": "ddd31dc05049cb0a64e0b713b92805c0",
+                "title": "Textile Supervisor"
+            },
+            {
+                "uuid": "2eae5b2832a04ccada9819570bb06691",
+                "title": "Thermostatic Controls Supervisor"
+            },
+            {
+                "uuid": "e1398ec6b4c762e9295b2feba590c7ac",
+                "title": "Threshing Department Supervisor"
+            },
+            {
+                "uuid": "390a6c08c4d00870d8f251f69eda329b",
+                "title": "Tile and Mottle Supervisor"
+            },
+            {
+                "uuid": "3abba8e633d28a9c9ebd3686ecccbe55",
+                "title": "Tipple Boss"
+            },
+            {
+                "uuid": "830adc92084832cf08c112cd32691a6c",
+                "title": "Tipple Supervisor"
+            },
+            {
+                "uuid": "e6c0541a7f1f75579ecced43bdfbe020",
+                "title": "TNT Line Supervisor"
+            },
+            {
+                "uuid": "6d99acb487c13dc3d8cf078698a4d678",
+                "title": "Toilet and Laundry Soap Supervisor"
+            },
+            {
+                "uuid": "40ed3d599af2ecaae1f8a24da79a46a0",
+                "title": "Tool and Die Supervisor"
+            },
+            {
+                "uuid": "442fc5e6d6f3d68247e93cfcfaeff264",
+                "title": "Tool Machine Shop Supervisor"
+            },
+            {
+                "uuid": "c24b4ac49e2fa368e6539af1b6ef58ef",
+                "title": "Tool Room Supervisor"
+            },
+            {
+                "uuid": "6544e3c169b76527b9ee008c3a3200bd",
+                "title": "Tooling Supervisor"
+            },
+            {
+                "uuid": "986537586d25c6d8b4a233db6dc0bfc8",
+                "title": "Tour Production Supervisor"
+            },
+            {
+                "uuid": "41658f65b24b7cbab860842e7f48d497",
+                "title": "Tower Supervisor"
+            },
+            {
+                "uuid": "471819ebd3bf607e9c0d58158e2018b0",
+                "title": "Toy Assembly Supervisor"
+            },
+            {
+                "uuid": "f86bda05a2975aace26195530f17e322",
+                "title": "Toy Parts Former Supervisor"
+            },
+            {
+                "uuid": "ccd32e04738a03413765b408bb223fae",
+                "title": "Tracer Bullet Section Supervisor"
+            },
+            {
+                "uuid": "35e58ff64971895c651ad76a5d0ff5e5",
+                "title": "Transformer Assembly Supervisor"
+            },
+            {
+                "uuid": "24c58644c146ab291be801d910133794",
+                "title": "Transformer Shop Supervisor"
+            },
+            {
+                "uuid": "e44aa4508dd866005d088eade6b067dc",
+                "title": "Treating and Pumping Supervisor"
+            },
+            {
+                "uuid": "cd7f934c247003009d2f0e51d1c806b2",
+                "title": "Treating Plant Supervisor"
+            },
+            {
+                "uuid": "0a9f4513c0f0c36ce9432c594d07041f",
+                "title": "Tubing Supervisor"
+            },
+            {
+                "uuid": "3ae8519123b26218e820014a423c0d95",
+                "title": "Tufting Supervisor"
+            },
+            {
+                "uuid": "70fddaeebf34c739e66dfdde60a85be1",
+                "title": "Tumblers Supervisor"
+            },
+            {
+                "uuid": "cdb8344a878276f0fa3075f960ab8f53",
+                "title": "Tumbling and Rolling Supervisor"
+            },
+            {
+                "uuid": "f8dac6e2022698ac098171fd0251fe9f",
+                "title": "Turn Supervisor"
+            },
+            {
+                "uuid": "4d5506ce03a06180813de693682a34fb",
+                "title": "Type Disk Quality Control Supervisor"
+            },
+            {
+                "uuid": "67c1b34cd68c417aec6d7c2678b16f0d",
+                "title": "Type Photography Supervisor"
+            },
+            {
+                "uuid": "8b00e6b1e112f482965a8c4d93ccc8ae",
+                "title": "Typesetting Supervisor"
+            },
+            {
+                "uuid": "6fb1c530b6e69cf6879c03d6c7bda4b1",
+                "title": "Umbrella Supervisor"
+            },
+            {
+                "uuid": "d6ee7dc5ecb7eedc29b694ad2ed5d8a7",
+                "title": "Upholstery Department Supervisor"
+            },
+            {
+                "uuid": "a232b84af0a034e307ae76ceea699fd4",
+                "title": "Uranium Processing Supervisor"
+            },
+            {
+                "uuid": "f1352dbef13c4461d4944a1332f78f25",
+                "title": "Vacuum Metalizing Supervisor"
+            },
+            {
+                "uuid": "30cf412e22a780824e4636a98086d613",
+                "title": "Varnish Supervisor"
+            },
+            {
+                "uuid": "5f825372d8262a46dab8746afa2cfaa2",
+                "title": "Vat House Supervisor"
+            },
+            {
+                "uuid": "ec31eea4c6a0e7e0af2e0cfe67dd5418",
+                "title": "Veneer Department Manager"
+            },
+            {
+                "uuid": "f19411d347c552b51a8a04f0ae1bc320",
+                "title": "Veneer Supervisor"
+            },
+            {
+                "uuid": "fa25591b75b31792b378a3d05cae0293",
+                "title": "Wall Mirror Department Supervisor"
+            },
+            {
+                "uuid": "6bb5e84072669d30e92650f9062feddf",
+                "title": "Warehouse and Receiving Supervisor"
+            },
+            {
+                "uuid": "658388d7795bbd427898837606ac5f61",
+                "title": "Wash House Supervisor"
+            },
+            {
+                "uuid": "956669f587d3b0099a16b99ae5f318ca",
+                "title": "Washing and Screening Plant Supervisor"
+            },
+            {
+                "uuid": "fdf740f30993ec9947692ce04392f9e5",
+                "title": "Wastewater Treatment Plant Supervisor"
+            },
+            {
+                "uuid": "4f136f907a1aaad67c3ac6cb519716ba",
+                "title": "Wastewater Treatment Supervisor"
+            },
+            {
+                "uuid": "3d6385fb42a811845cc0582c0cf2b93b",
+                "title": "Watch Manufacturing Supervisor"
+            },
+            {
+                "uuid": "7a5a4b06f64e9acbaf66337cad7e4925",
+                "title": "Water Treatment Plant Supervisor"
+            },
+            {
+                "uuid": "5fc05ac4ad5836c016c322e229d85998",
+                "title": "Weave Room Supervisor"
+            },
+            {
+                "uuid": "cfc8909e634f036f853db72fd5525127",
+                "title": "Weaving Supervisor"
+            },
+            {
+                "uuid": "7e17d350f10418cc0e71302e1be3321f",
+                "title": "Webbing Supervisor"
+            },
+            {
+                "uuid": "0588fb69c037c92e02593f4f18846aef",
+                "title": "Welding Production Supervisor"
+            },
+            {
+                "uuid": "583c6073569b9671166d4a0064234121",
+                "title": "Welding Supervisor"
+            },
+            {
+                "uuid": "9b314d0e6059459700e38d9bdc03210b",
+                "title": "Well-Point Pumping Supervisor"
+            },
+            {
+                "uuid": "5ef98d5729ec2696fadb6263f6fb1db5",
+                "title": "Wet End Supervisor"
+            },
+            {
+                "uuid": "398a9e42932e251790ceecf94e77ff09",
+                "title": "Wet Pour Supervisor"
+            },
+            {
+                "uuid": "2095b0af8ab3b79173552bfcd556e90d",
+                "title": "Wet Room Supervisor"
+            },
+            {
+                "uuid": "23b659e28aa5f82447216df4be76a388",
+                "title": "Whipped Topping Supervisor"
+            },
+            {
+                "uuid": "af7ad9587ee94de69c119f06937b4ca4",
+                "title": "White Sugar Supervisor"
+            },
+            {
+                "uuid": "4d4c6e3d8c363e4c2cb878e2e46427d0",
+                "title": "Winding and Twisting Department Supervisor"
+            },
+            {
+                "uuid": "4c6ceb4f5791105122e4fb8061f3eb7f",
+                "title": "Wire Rope Fabrication Supervisor"
+            },
+            {
+                "uuid": "2e7461574b022d80e7bc1ee48e0c5f7d",
+                "title": "Wood Crew Supervisor"
+            },
+            {
+                "uuid": "5eaf979063f76fbd47f6a1aefd4cb570",
+                "title": "Wood Room Supervisor"
+            },
+            {
+                "uuid": "417c4f8c27f287ec7ea5c4918260b8de",
+                "title": "Yarn Preparation Supervisor"
+            },
+            {
+                "uuid": "7428fece3ea9768aa9f65eaa7cb0138a",
+                "title": "Yeast Supervisor"
+            },
+            {
+                "uuid": "5c76bd1c5b555d9395bf874cc72bd160",
+                "title": "Area Supervisor"
+            },
+            {
+                "uuid": "45d5eb7e636425675d6b9b00fba26d82",
+                "title": "Boilermaking Supervisor"
+            },
+            {
+                "uuid": "ab424a344fac05ed9301692b721abe22",
+                "title": "Boxing and Pressing Supervisor"
+            },
+            {
+                "uuid": "7f3a8bc77d213cb81b71f053d2901a16",
+                "title": "Chief Hydroelectric Station Operator"
+            },
+            {
+                "uuid": "157f3918171e1113906bf47e270fc101",
+                "title": "Chief Inspector"
+            },
+            {
+                "uuid": "00e06eb43ae0e856b4ee398b38b0f170",
+                "title": "Chief Load Dispatcher"
+            },
+            {
+                "uuid": "c2a68b5c6c989cee18fb5b6a50b71701",
+                "title": "Chief Projectionist"
+            },
+            {
+                "uuid": "4f52ea8970c93ff4f54542b65594911f",
+                "title": "Coordinator"
+            },
+            {
+                "uuid": "a9fd02b9a143a5219306c17071d875c7",
+                "title": "Costuming Supervisor"
+            },
+            {
+                "uuid": "f4d8185aa305fb1a8ec44c23a567c092",
+                "title": "Department Head"
+            },
+            {
+                "uuid": "0382e58693215a9906b3f13ffe504824",
+                "title": "Department Supervisor"
+            },
+            {
+                "uuid": "23f5827a7a89a56740493c31f9e8fbee",
+                "title": "Distribution Superintendent"
+            },
+            {
+                "uuid": "d839d79a87e57886b79fc6f516b2038b",
+                "title": "Electrical Supervisor"
+            },
+            {
+                "uuid": "c19a0289f19d59238accdf41fb411a27",
+                "title": "Facilitator"
+            },
+            {
+                "uuid": "d781c1c2911589981c4892944c27b2e2",
+                "title": "Floor Manager"
+            },
+            {
+                "uuid": "41fb93624cf2225f1bb977ad3800b2b1",
+                "title": "Food Production Manager"
+            },
+            {
+                "uuid": "bce91f575d97e215189274daef88a6af",
+                "title": "Group Leader"
+            },
+            {
+                "uuid": "d666d49fbe392e553efe6d42649596ac",
+                "title": "Hydroelectric Station Chief"
+            },
+            {
+                "uuid": "fa49b81e22e086fcbf59f285a6e3befe",
+                "title": "Insulation Supervisor"
+            },
+            {
+                "uuid": "7792fb0406c8d826084d0bd310d5dd5b",
+                "title": "Jewelry Department Supervisor"
+            },
+            {
+                "uuid": "ce0753439f8f59cb64b709130b645173",
+                "title": "Line Supervisor"
+            },
+            {
+                "uuid": "b512bd93116b312f587a0e7573f917d3",
+                "title": "Print Production Coordinator"
+            },
+            {
+                "uuid": "453cf4c25c9d37fcd7fd863dcb75fe35",
+                "title": "Printing Manager"
+            },
+            {
+                "uuid": "41504945f2f537665339ccb2544b98bb",
+                "title": "Quality Control Manager (QC Manager)"
+            },
+            {
+                "uuid": "db3ab3242bb59b8d83c1cea164d2f064",
+                "title": "Quality Supervisor"
+            },
+            {
+                "uuid": "28bb5bb263b6e34ea1ae93a5ecee0ce3",
+                "title": "Reclamation Supervisor"
+            },
+            {
+                "uuid": "2ac71ad055073be626aefe79e192a50c",
+                "title": "Retread Supervisor"
+            },
+            {
+                "uuid": "eecad8763077c159d8997cf0147b6077",
+                "title": "Livestock Yard Supervisor"
+            },
+            {
+                "uuid": "6027d51759232750cca758d02f78d6f7",
+                "title": "Loom Fixer Supervisor"
+            },
+            {
+                "uuid": "279c5849eb815de2ba4d8e725042e044",
+                "title": "Maintenance Coordinator"
+            },
+            {
+                "uuid": "668845af3e3072afb58ade52a82c7618",
+                "title": "Meters Superintendent"
+            },
+            {
+                "uuid": "c2303ecabf3ed076d31631b93cd4d2a3",
+                "title": "Outside Machinist Supervisor"
+            },
+            {
+                "uuid": "5010a6f1acba2aed7d6e004c64ac5799",
+                "title": "Painter Supervisor"
+            },
+            {
+                "uuid": "678e8bc225614ee556cc5dc5f03c54ee",
+                "title": "Prefabricated Homes Field Assembly Supervisor"
+            },
+            {
+                "uuid": "b3c01677a9709415f9533391eaa07791",
+                "title": "Press Supervisor"
+            },
+            {
+                "uuid": "1403230a835e5dc52e2ec3b6ce28678b",
+                "title": "Production Superintendent"
+            },
+            {
+                "uuid": "d8ccba6b38c2c2e8ea5aaeeb614eb267",
+                "title": "Protective Signal Superintendent"
+            },
+            {
+                "uuid": "aa17f3b782d5d2716202655caa4f0e51",
+                "title": "Quality Assurance Supervisor (QA Supervisor)"
+            },
+            {
+                "uuid": "0bec5b967dce356f30edba8508d0b93c",
+                "title": "Quality Controller"
+            },
+            {
+                "uuid": "941d25278adfe06be45715152283e693",
+                "title": "Salvage Engineer"
+            },
+            {
+                "uuid": "6f01dc09512784047c75c90243d533ff",
+                "title": "Salvage Supervisor"
+            },
+            {
+                "uuid": "f0afc3d6b5114cb825f984fec6c2f24e",
+                "title": "Sewer System Supervisor"
+            },
+            {
+                "uuid": "740db8e0543700088be352adf9a3c893",
+                "title": "Shift Leader"
+            },
+            {
+                "uuid": "38eef3d6eafd0e229da50637b7e1d9af",
+                "title": "Shop Supervisor"
+            },
+            {
+                "uuid": "c1861d2084cc2d635c689d050ce6c61c",
+                "title": "Steel Pan Form Placing Supervisor"
+            },
+            {
+                "uuid": "83c0db4b4e43df618cddf9110b7200fb",
+                "title": "Steel Post Installer Supervisor"
+            },
+            {
+                "uuid": "3ffdff41baaefa3c4d1bd75435e2d1ad",
+                "title": "Stock Supervisor"
+            },
+            {
+                "uuid": "ba843e9d313d4134858f2eb361d8e705",
+                "title": "Switchboard Operator Supervisor"
+            },
+            {
+                "uuid": "c5d426fa2801131aa59d5f7839ccc997",
+                "title": "Team Leader"
+            },
+            {
+                "uuid": "dded9c41a176a51ad424e84e0a6c7183",
+                "title": "Tests Superintendent"
+            },
+            {
+                "uuid": "416274eb06708a869cff37334a2dede1",
+                "title": "Traffic Maintenance Supervisor"
+            },
+            {
+                "uuid": "5b06f5e6c4f69edce5e46956b38ecc3d",
+                "title": "Water and Sewer Systems Supervisor"
+            },
+            {
+                "uuid": "3bceeb7ca45fd138d3d183e0fa8f049c",
+                "title": "Woods Boss"
+            },
+            {
+                "uuid": "28ca1391140513b3b2b8f13453e7da92",
+                "title": "Wrecking Supervisor"
+            },
+            {
+                "uuid": "64b45c65dc301cd89175ec97a4ae15d1",
+                "title": "Department Manager"
+            },
+            {
+                "uuid": "73daf733a2e2172d89b7a81af97ac2b7",
+                "title": "Plant Manager"
+            },
+            {
+                "uuid": "4e926214a66707706c1fe2bb2f000f18",
+                "title": "Production Manager"
+            },
+            {
+                "uuid": "980e7dad5b40f6d7bcdc080b13df8161",
+                "title": "Production Supervisor"
+            },
+            {
+                "uuid": "7352ace2abe66a4232d2c39910111f64",
+                "title": "Shift Supervisor"
             }
         ]
+    },
+        {
+            "uuid": "4c1dc68c4aa0c761b3196df6bd7cb9f9",
+            "onet_soc_code": "45-3011.00",
+            "title": "Fishers and Related Fishing Workers",
+            "description": "Use nets, fishing rods, traps, or other equipment to catch and gather fish or other aquatic animals from rivers, lakes, or oceans, for human consumption or other uses. May haul game onto ship.",
+            "related_job_titles": [
+                {
+                    "uuid": "391d21cc64aab7135a4f38f200ef8e5f",
+                    "title": "Abalone Fisherman"
+                },
+                {
+                    "uuid": "563338de5168df492f7d48351baaa900",
+                    "title": "Albacore Fishing Boat Crewman"
+                },
+                {
+                    "uuid": "f19a84b676782663171d26dc83c946e6",
+                    "title": "Bait Man"
+                },
+                {
+                    "uuid": "eee0ecd568af07843320d8ac746f70b6",
+                    "title": "Beachman"
+                },
+                {
+                    "uuid": "3106b28c23eefceebf57438f78f9d300",
+                    "title": "Blue Crabber"
+                },
+                {
+                    "uuid": "63d1efae76276a650996275c1fb69101",
+                    "title": "Boat Officer"
+                },
+                {
+                    "uuid": "e4aa939b02ec5a1605f949f82371b4ed",
+                    "title": "Chummer"
+                },
+                {
+                    "uuid": "8087552ec7a4a77c54022753ff19a4d5",
+                    "title": "Clam Digger"
+                },
+                {
+                    "uuid": "e4c78cfaf8d4bb54bd8270f72e84e18d",
+                    "title": "Clam Dredge Boat Captain"
+                },
+                {
+                    "uuid": "312857b3a0914281642cb6b661929bfd",
+                    "title": "Clam Dredger"
+                },
+                {
+                    "uuid": "20e5bf7a2962d1f0dd1af27028a503ef",
+                    "title": "Commercial Crabber"
+                },
+                {
+                    "uuid": "6891b3d44819e8b6d259d1f31cd94252",
+                    "title": "Commercial Fisher"
+                },
+                {
+                    "uuid": "a83fdcc533c034574e83c7372cfd8451",
+                    "title": "Commercial Fisherman"
+                },
+                {
+                    "uuid": "b37a6b3c6fd971849d07a0648f1de9de",
+                    "title": "Commercial Fishing Vessel Operator"
+                },
+                {
+                    "uuid": "a4521f0581bf10749ea55af4592aed0b",
+                    "title": "Commercial Ocean Clammer"
+                },
+                {
+                    "uuid": "eae1ba433ec1c1296680dac5bacc0654",
+                    "title": "Commercial Shrimping Captain"
+                },
+                {
+                    "uuid": "1c1a928299afd40d26710682593277d1",
+                    "title": "Crab Catcher"
+                },
+                {
+                    "uuid": "96636a9908f92fffb9ce989980dd8ee6",
+                    "title": "Crab Fisher"
+                },
+                {
+                    "uuid": "f49df93675dba24f1be7e37189eb397b",
+                    "title": "Crab Fisherman"
+                },
+                {
+                    "uuid": "1181d4877de90fce0a7476c14b8df388",
+                    "title": "Diving Fisher"
+                }
+            ]
+        
+        }]
+    

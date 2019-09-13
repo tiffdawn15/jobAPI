@@ -3,18 +3,13 @@ const Schema = mongoose.Schema
 
 
 const onetSchema = new Schema ({
-    uuid: String,
     onetSocCode: String, 
     title: String, 
     description: String, 
     relatedJobTitles: [{
         uuid: String, 
         title: String,
-        Soc: [{
-            ref:"Jobs",
-            type:mongoose.Schema.Types.ObjectId
-
-        }]
+        
     }]
 
 })
