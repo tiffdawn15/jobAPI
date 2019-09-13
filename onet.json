@@ -1,7 +1,7 @@
 [
     {
         "uuid": "74ea93ca3024c3d00d6709ae9e099ad2",
-        "onet_soc_code": "47-4041.00",
+        "soc": "47-4041.00",
         "title": "Hazardous Materials Removal Workers",
         "description": "Identify, remove, pack, transport, or dispose of hazardous materials, including asbestos, lead-based paint, waste oil, fuel, transmission fluid, radioactive materials, or contaminated soil. Specialized training and certification in hazardous materials handling or a confined entry permit are generally required. May operate earth-moving equipment or trucks.",
         "related": [
@@ -100,7 +100,7 @@
     ]}, 
     {
         "uuid": "d72271093395fd0e5f645037b6b68e70",
-        "onet_soc_code": "51-1011.00",
+        "soc": "51-1011.00",
         "title": "First-Line Supervisors of Production and Operating Workers",
         "description": "Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators.",
         "related": [
@@ -2437,46 +2437,6 @@
                 "title": "Solder Making Supervisor"
             },
             {
-                "uuid": "5bb9f140fe56a3407f1ebec11c1fb6c3",
-                "title": "Solid Waste Facility Supervisor"
-            },
-            {
-                "uuid": "8a0579ce3dd1edb7b0e33068dcb436be",
-                "title": "Sorting Supervisor"
-            },
-            {
-                "uuid": "a56886d69eeea86047d41527ae57a4b6",
-                "title": "Special Assemblies Supervisor"
-            },
-            {
-                "uuid": "804572ed960c3adcec11a2e87dab1bed",
-                "title": "Specialty Department Supervisor"
-            },
-            {
-                "uuid": "fd75ae59b5ecd889836b47e4721ab631",
-                "title": "Specialty Food Products Supervisor"
-            },
-            {
-                "uuid": "2ba258ba632c38ea973489feb799a5f0",
-                "title": "Specialty Manufacturing Supervisor"
-            },
-            {
-                "uuid": "b24383df1e2f9cd0343c0666d6e7a19f",
-                "title": "Specialty Plant Supervisor"
-            },
-            {
-                "uuid": "8b392f41f16cde4283ca3c4e363854a9",
-                "title": "Spikemaking Supervisor"
-            },
-            {
-                "uuid": "97de2a1dd3c9632ecb78c4b438b84dfb",
-                "title": "Spinning and Winding Supervisor"
-            },
-            {
-                "uuid": "81d7a642b8f8a1824eccbbd18ee79d99",
-                "title": "Spinning Supervisor"
-            },
-            {
                 "uuid": "c4daaa4c0c398d598eb4242f781a34d3",
                 "title": "Split and Drum Room Supervisor"
             },
@@ -2625,58 +2585,6 @@
                 "title": "Tipple Boss"
             },
             {
-                "uuid": "830adc92084832cf08c112cd32691a6c",
-                "title": "Tipple Supervisor"
-            },
-            {
-                "uuid": "e6c0541a7f1f75579ecced43bdfbe020",
-                "title": "TNT Line Supervisor"
-            },
-            {
-                "uuid": "6d99acb487c13dc3d8cf078698a4d678",
-                "title": "Toilet and Laundry Soap Supervisor"
-            },
-            {
-                "uuid": "40ed3d599af2ecaae1f8a24da79a46a0",
-                "title": "Tool and Die Supervisor"
-            },
-            {
-                "uuid": "442fc5e6d6f3d68247e93cfcfaeff264",
-                "title": "Tool Machine Shop Supervisor"
-            },
-            {
-                "uuid": "c24b4ac49e2fa368e6539af1b6ef58ef",
-                "title": "Tool Room Supervisor"
-            },
-            {
-                "uuid": "6544e3c169b76527b9ee008c3a3200bd",
-                "title": "Tooling Supervisor"
-            },
-            {
-                "uuid": "986537586d25c6d8b4a233db6dc0bfc8",
-                "title": "Tour Production Supervisor"
-            },
-            {
-                "uuid": "41658f65b24b7cbab860842e7f48d497",
-                "title": "Tower Supervisor"
-            },
-            {
-                "uuid": "471819ebd3bf607e9c0d58158e2018b0",
-                "title": "Toy Assembly Supervisor"
-            },
-            {
-                "uuid": "f86bda05a2975aace26195530f17e322",
-                "title": "Toy Parts Former Supervisor"
-            },
-            {
-                "uuid": "ccd32e04738a03413765b408bb223fae",
-                "title": "Tracer Bullet Section Supervisor"
-            },
-            {
-                "uuid": "35e58ff64971895c651ad76a5d0ff5e5",
-                "title": "Transformer Assembly Supervisor"
-            },
-            {
                 "uuid": "24c58644c146ab291be801d910133794",
                 "title": "Transformer Shop Supervisor"
             },
@@ -2771,26 +2679,6 @@
             {
                 "uuid": "fdf740f30993ec9947692ce04392f9e5",
                 "title": "Wastewater Treatment Plant Supervisor"
-            },
-            {
-                "uuid": "4f136f907a1aaad67c3ac6cb519716ba",
-                "title": "Wastewater Treatment Supervisor"
-            },
-            {
-                "uuid": "3d6385fb42a811845cc0582c0cf2b93b",
-                "title": "Watch Manufacturing Supervisor"
-            },
-            {
-                "uuid": "7a5a4b06f64e9acbaf66337cad7e4925",
-                "title": "Water Treatment Plant Supervisor"
-            },
-            {
-                "uuid": "5fc05ac4ad5836c016c322e229d85998",
-                "title": "Weave Room Supervisor"
-            },
-            {
-                "uuid": "cfc8909e634f036f853db72fd5525127",
-                "title": "Weaving Supervisor"
             },
             {
                 "uuid": "7e17d350f10418cc0e71302e1be3321f",
@@ -3182,7 +3070,7 @@
         {
 
   "uuid": "51cc95467c1844c7dc1d923265c023b2",
-  "onet_soc_code": "25-2021.00",
+  "soc": "25-2021.00",
   "title": "Elementary School Teachers, Except Special Education",
   "description": "Teach students basic academic, social, and other formative skills in public or private schools at the elementary level.",
   "related": [
@@ -3206,7 +3094,7 @@
 },
 {
     "uuid": "96f1cf15fe5880d8660c70f0756944ab",
-    "onet_soc_code": "51-5112.00",
+    "soc": "51-5112.00",
     "title": "Printing Press Operators",
     "description": "Set up and operate digital, letterpress, lithographic, flexographic, gravure, or other printing machines. Includes short-run offset printing presses.",
     "related_job_titles": [
@@ -3267,7 +3155,7 @@
 
 {
 "uuid": "4be080220c824dcb435d59ebf1c3ce80",
-"onet_soc_code": "39-3011.00",
+"soc": "39-3011.00",
 "title": "Gaming Dealers",
 "description": "Operate table games. Stand or sit behind table and operate games of chance by dispensing the appropriate number of cards or blocks to players, or operating other gaming equipment. Distribute winnings or collect players' money or chips. May compare the house's hand against players' hands.",
 "related": [

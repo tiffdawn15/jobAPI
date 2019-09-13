@@ -3,7 +3,7 @@ const Schema = mongoose.Schema
 
 
 const onetSchema = new Schema ({
-    onetSocCode: String, 
+    soc: String, 
     title: String, 
     description: String, 
     related: [{
