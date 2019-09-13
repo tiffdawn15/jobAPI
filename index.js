@@ -21,7 +21,10 @@ app.use("/onet", onetRouter)
 
 
 
+app.set("port", process.env.PORT || 1234);
+
+app.listen(app.get("port"), () => {
+  console.log(`✅ PORT: ${app.get("port")} 🌟`);
+});
 
 
-
-app.listen(1234, () => console.log("Running on port 1234"));
