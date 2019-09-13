@@ -3,7 +3,9 @@ const Jobs = require("../models/Jobs")
 
 module.exports = {
     index: (req, res) => {
-      Jobs.find({}).then(jobs => {
+      Jobs.find({})
+      .populate("onet")
+      .then(jobs => {
         res.json(jobs);
       });
     },

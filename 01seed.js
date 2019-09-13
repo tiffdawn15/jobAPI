@@ -17,7 +17,7 @@ Jobs.find({}).then(jobsDB => {
         Onet.findOne({title: jobsJSON.title})
         .then(onetDocument => {
             console.log(onetDocument)
-            jobsDocument.onet = onetDocument.id
+            jobsDocument.onet = onetDocument
             jobsDocument.save()
         })
     })

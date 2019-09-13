@@ -6,7 +6,7 @@ const onetSchema = new Schema ({
     onetSocCode: String, 
     title: String, 
     description: String, 
-    relatedJobTitles: [{
+    related: [{
         uuid: String, 
         title: String,
         

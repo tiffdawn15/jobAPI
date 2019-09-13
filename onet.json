@@ -4,7 +4,7 @@
         "onet_soc_code": "47-4041.00",
         "title": "Hazardous Materials Removal Workers",
         "description": "Identify, remove, pack, transport, or dispose of hazardous materials, including asbestos, lead-based paint, waste oil, fuel, transmission fluid, radioactive materials, or contaminated soil. Specialized training and certification in hazardous materials handling or a confined entry permit are generally required. May operate earth-moving equipment or trucks.",
-        "related_job_titles": [
+        "related": [
             {
                 "uuid": "1708c7b27f484865d8891a605b91c27c",
                 "title": "Abatement Worker"
@@ -103,7 +103,7 @@
         "onet_soc_code": "51-1011.00",
         "title": "First-Line Supervisors of Production and Operating Workers",
         "description": "Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators.",
-        "related_job_titles": [
+        "related": [
             {
                 "uuid": "c674afc952704491409885ad88bd7fa5",
                 "title": "Abattoir Supervisor"
@@ -3095,7 +3095,7 @@
             "onet_soc_code": "45-3011.00",
             "title": "Fishers and Related Fishing Workers",
             "description": "Use nets, fishing rods, traps, or other equipment to catch and gather fish or other aquatic animals from rivers, lakes, or oceans, for human consumption or other uses. May haul game onto ship.",
-            "related_job_titles": [
+            "related": [
                 {
                     "uuid": "391d21cc64aab7135a4f38f200ef8e5f",
                     "title": "Abalone Fisherman"
@@ -3178,5 +3178,122 @@
                 }
             ]
         
-        }]
+        }, 
+        {
+
+  "uuid": "51cc95467c1844c7dc1d923265c023b2",
+  "onet_soc_code": "25-2021.00",
+  "title": "Elementary School Teachers, Except Special Education",
+  "description": "Teach students basic academic, social, and other formative skills in public or private schools at the elementary level.",
+  "related": [
+    {
+      "uuid": "26bc4486dfd0f60b3bb0d8d64e001800",
+      "title": "1st Grade Teacher"
+    },
+    {
+      "uuid": "a59278d7f653db37e54a270345a91a05",
+      "title": "2nd Grade Teacher"
+    },
+    {
+      "uuid": "0cfb09fa1c6691fd6d77a3d3743fa8bc",
+      "title": "3rd Grade Reading Teacher"
+    },
+    {
+      "uuid": "ac668f6dc8795ace795b2c1f7c889ba4",
+      "title": "3rd Grade Teacher"
+    }
+  ]
+},
+{
+    "uuid": "96f1cf15fe5880d8660c70f0756944ab",
+    "onet_soc_code": "51-5112.00",
+    "title": "Printing Press Operators",
+    "description": "Set up and operate digital, letterpress, lithographic, flexographic, gravure, or other printing machines. Includes short-run offset printing presses.",
+    "related_job_titles": [
+      {
+        "uuid": "9be6e14491305132c175cb1781a3356c",
+        "title": "1st Pressman"
+      },
+      {
+        "uuid": "d38d16bab3f9f25ae34ae3e2aad254d4",
+        "title": "1st Pressman On Web Press"
+      },
+      {
+        "uuid": "9c631442c4966cd3e5a9e52fc70aff1c",
+        "title": "2nd Pressman"
+      },
+      {
+        "uuid": "7826ba3a7150817935915f63b861936b",
+        "title": "3rd Pressman"
+      },
+      {
+        "uuid": "bc4cba56869c9c8d0d832cb55d0ebe99",
+        "title": "Aniline Press Worker"
+      },
+      {
+        "uuid": "773564299146dde2a91e176fd1480b7f",
+        "title": "Assistant Offset Press Operator"
+      },
+      {
+        "uuid": "f67af6bf957ae2e11ae48b7c8a6049af",
+        "title": "Assistant Pressman"
+      },
+      {
+        "uuid": "de5328a576f1912c89e88c7c2876ca45",
+        "title": "Back Up Machine Operator"
+      },
+      {
+        "uuid": "68aa1d363b81bed72a371893c7d78f7f",
+        "title": "Backer"
+      },
+      {
+        "uuid": "6fc09415e8a8b4968e61e16b90e66278",
+        "title": "Bag Press Operator"
+      },
+      {
+        "uuid": "f640c8216ab2831b93ccbf8d74d7998d",
+        "title": "Bag Printer"
+      },
+      {
+        "uuid": "35fed891bb57cd1e1f718e873a0a6acf",
+        "title": "Balloon Design Printer"
+      },
+      {
+        "uuid": "16048b44ef8c15cb1474a4323a164df5",
+        "title": "Batteryman"
+      }
+    ]
+}, 
+
+{
+"uuid": "4be080220c824dcb435d59ebf1c3ce80",
+"onet_soc_code": "39-3011.00",
+"title": "Gaming Dealers",
+"description": "Operate table games. Stand or sit behind table and operate games of chance by dispensing the appropriate number of cards or blocks to players, or operating other gaming equipment. Distribute winnings or collect players' money or chips. May compare the house's hand against players' hands.",
+"related": [
+  {
+    "uuid": "8576a78b5c1cae3a567ca7fd34500357",
+    "title": "21 Dealer"
+  },
+  {
+    "uuid": "53aaf801278a6ce7aa4f341aca756af1",
+    "title": "Baccarat Dealer"
+  },
+  {
+    "uuid": "b610bcd3bb0ef2b85b1f03e0f733eaf7",
+    "title": "Big 6 Dealer"
+  },
+  {
+    "uuid": "ff7cd6a14134bf05fda96d39717301f5",
+    "title": "Black Jack Dealer"
+  },
+  {
+    "uuid": "c50d023293295e8e7b13f0259138e5c8",
+    "title": "Blackjack Dealer"
+  }
+]
+}
+    
+
+]
     

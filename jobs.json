@@ -23,6 +23,42 @@
         "title": "First-Line Supervisors of Production and Operating Workers",
         "normalized": "abattoir supervisor",
         "parent_uuid": "d72271093395fd0e5f645037b6b68e70"
+    },
+    {
+        "uuid": "26bc4486dfd0f60b3bb0d8d64e001800",
+        "title": "Elementary School Teachers, Except Special Education",
+        "normalized": "1st grade teacher",
+        "parent_uuid": "51cc95467c1844c7dc1d923265c023b2"
+    },
+    {
+        "uuid": "9be6e14491305132c175cb1781a3356c",
+        "title": "Printing Press Operators",
+        "normalized": "1st pressman",
+        "parent_uuid": "96f1cf15fe5880d8660c70f0756944ab"
+    },
+    {
+        "uuid": "d38d16bab3f9f25ae34ae3e2aad254d4",
+        "title": "Printing Press Operators",
+        "normalized": "1st pressman on web press",
+        "parent_uuid": "96f1cf15fe5880d8660c70f0756944ab"
+    },
+    {
+        "uuid": "8576a78b5c1cae3a567ca7fd34500357",
+        "title": "Gaming Dealers",
+        "normalized": "21 dealer",
+        "parent_uuid": "4be080220c824dcb435d59ebf1c3ce80"
+    },
+    {
+        "uuid": "a59278d7f653db37e54a270345a91a05",
+        "title": "Elementary School Teachers, Except Special Education",
+        "normalized": "2nd grade teacher",
+        "parent_uuid": "51cc95467c1844c7dc1d923265c023b2"
+    },
+    {
+        "uuid": "9c631442c4966cd3e5a9e52fc70aff1c",
+        "title": "Printing Press Operators",
+        "normalized": "2nd pressman",
+        "parent_uuid": "96f1cf15fe5880d8660c70f0756944ab"
     }
    
    
