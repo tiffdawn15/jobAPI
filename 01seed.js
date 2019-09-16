@@ -4,7 +4,7 @@ const Onet = require("./models/Onet")
 const jobsJsonData = require("./jobs.json")
 const onetJsonData = require("./onet.json")
 
-
+//Code connecting the Jobs Model to the Onet Model. Referencing the "title" for both
 Jobs.find({}).then(jobsDB => {
     jobsDB.forEach(jobsDocument => {
         const jobsJSON = jobsJsonData.find(jobsJsonItem => {

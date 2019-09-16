@@ -1,11 +1,88 @@
 # jobAPI
 
+Routes: 
 
-controllerRouter.get("/", skillsController.index)
-controllerRouter.get("/name/:name", skillsController.show)
-controllerRouter.post("/", skillsController.create)
-controllerRouter.put("/update/:name", skillsController.update)
-controllerRouter.delete("/", skillsController.destroy)
+Jobs/Onet Combined: 
+controllerRouter.get("/", jobsController.index)  
+URL:  
+https://secure-falls-28082.herokuapp.com/  
+
+Note:  The root contains the jobs and onet data. 
+  
+
+controllerRouter.get("/title/:title", jobsController.show)  
+URL: URL:  
+https://secure-falls-28082.herokuapp.com/title/:title  
+Note: Searches for one jobs (with associated ONET code)  
+  
+
+controllerRouter.post("/", jobsController.create)
+URL:  
+https://secure-falls-28082.herokuapp.com/  
+
+Note:  Create a new job at the root using "post" method.  
+  
+controllerRouter.put("/update/:title", jobsController.update)
+URL:  
+https://secure-falls-28082.herokuapp.com/update/:title  
+
+Note:  Updated a speicifc job record  
+controllerRouter.delete("/delete/:title", jobsController.destroy)
+URL:  
+https://secure-falls-28082.herokuapp.com/delete/:title  
+
+Note:  Delete a specific job record 
+
+
+  
+Onet Specific Routes: 
+  
+controllerRouter.get("/", onetController.index)  
+URL: https://secure-falls-28082.herokuapp.com/onet  
+Note: This shows the index of the Onet json file  
+  
+controllerRouter.get("/title/:title", onetController.show)
+URL: https://secure-falls-28082.herokuapp.com/onet/title/:title  
+Note: Updated a specific title  
+  
+controllerRouter.post("/", onetController.create)  
+https://secure-falls-28082.herokuapp.com/onet 
+Note: Creates a new Onet record using the "post" method  
+  
+controllerRouter.put("/update/:title", onetController.update)
+https://secure-falls-28082.herokuapp.com/onet/update/:title
+Note:  Update a speicfic Onet code by referencing the title 
+  
+controllerRouter.delete("/delete/:title", onetController.destroy)  
+https://secure-falls-28082.herokuapp.com/onet/delete/:title
+Note:  Delete an Onet record
+
+
+Skill Model Specific:  
+controllerRouter.get("/", skillsController.index)  
+URL:  
+    https://secure-falls-28082.herokuapp.com/skills  
+Note: It shows all of the skills   
+  
+controllerRouter.get("/name/:name", skillsController.show)  
+URL:   
+https://secure-falls-28082.herokuapp.com/skills/name/:name  
+    Note: This will get a single skill  
+      
+controllerRouter.post("/", skillsController.create)  
+URL:  
+https://secure-falls-28082.herokuapp.com/ 
+    NOTE: Creates a  new skill useing the post method at the root  
+      
+controllerRouter.put("/update/:name", skillsController.update)   
+URL:  
+https://secure-falls-28082.herokuapp.com/update/:Name  
+Note: This will update a single skill  
+
+controllerRouter.delete("/", skillsController.destroy)  
+URL:  
+https://secure-falls-28082.herokuapp.com/delete/:name  
+Note: This will delete a skill from the Record 
 
 
 Paths for API: 
