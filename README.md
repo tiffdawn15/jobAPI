@@ -1,5 +1,14 @@
 # jobAPI
 
+Description: 
+This API can be used to get an understanding of the related job titles based off of Onet's SOC codes. At the root you will have a job title with an associated "normalized" job title, then a reference to related job titles based off of the SOC code. 
+
+Also, there is a list of skills using the skills model. 
+
+
+
+
+
 Routes: 
 
 Jobs/Onet Combined: 
@@ -85,13 +94,11 @@ https://secure-falls-28082.herokuapp.com/delete/:name
 Note: This will delete a skill from the Record 
 
 
-Paths for API: 
 
 
 
 
- An embedded screenshot of the app
-![Alt text](./README.md?raw=true "Screenshot of App")  
+
 
 
  Tech Used: 
